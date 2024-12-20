@@ -1,0 +1,1201 @@
+County,Sub_County,Ward,lat,long,Client,Client_Contact,constructo,Toilet_type,No_Users,Doors_No,Marketer,Markerter_Contact,Month,Verification
+Nakuru,Naivasha,Ihendu,-0.841739,36.5572,Ihendu ,725165318,School,VIDP,258,3,Ken Macharia,799088807,July,Approved
+Nakuru,Naivasha,,-0.8250753,36.5396591,Thairu,705045866,Household,VIDP,3,2,Jane Murimi,703922743,September,Approved
+Nakuru,Naivasha,,-0.7311117,36.4529633,Jeremiah Thuo,722877816,Rental Property,Sewer,84,21,Lucy Luvuze,713494284,September,Approved
+Nakuru,Naivasha,,-0.7286204,36.4515989,David Munga,723668876,Rental Property,Sewer,20,4,Jane Murimi,703922743,September,Approved
+Nakuru,Naivasha,,-0.726087,36.4324,Mr.macharia,727988871,Rental Property,Septic,24,,Lucy Luvuze,713494284,August,Approved
+Nakuru,Naivasha,,-0.7141979,36.4409996,Mugo,705105035,Rental Property,Flush toilet linked to the condominium sewer,16,4,LUCY Luvuze,713494284,October,Approved
+Nakuru,Naivasha,Kirima,-0.638868,36.4936,Saint Paul,720391053,School,VIDP,9,2,Ken Macharia,799088807,July,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.4210868,36.1507353,Pamela Khasiani,728106220,Rental Property,Flush toilet linked to a single leach pit,20,4,Jane Moraa,726037342,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.4172453,36.1542646,Victor Ombasa,726907367,Rental Property,Flush toilet linked to a single leach pit,5,3,Jane Moraa,726037432,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.4166434,36.1519668,Anthony Kamau,783282246,Rental Property,VIDP,15,3,Jane Moraa,726037432,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.4147477,36.1486371,Peter Wanjohi,723830831,Rental Property,Flush toilet linked to a septic tank,25,5,Jane Moraa,726037432,December,Approved
+Nakuru,N.E,Nakuru East,-0.4147284,36.1523534,Peter Njogu,726364836,Rental Property,Septic,6,6,Jane moraa,726037432,November,Approved
+Nakuru,N.E,Nakuru East,-0.4146103,36.1486211,Peter murange,780517548,Household,VISP,8,4,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.4141299,36.1540573,Eunice wangeci,724102019,Household,VISP,5,3,Jane moraa,726037432,November,Approved
+Nakuru,N.E,Nakuru East,-0.4139058,36.1521913,Joseph karioki,723126895,Household,VISP,5,3,Jane moraa,726037432,November,Approved
+Nakuru,N.E,Nakuru East,-0.413394,36.1544803,Fredrick karioki,722731780,Rental Property,Septic,7,7,Jane moraa,7,November,Approved
+Nakuru,N.E,Nakuru East,-0.4078973,36.1496172,Yvoone wanjiku,708575480,Household,VISP,15,2,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.4048062,36.1536331,Geofrey Kioi,758434142,Rental Property,VIDP,50,10,Jane Moraa,726037432,December,Approved
+Nakuru,N.E,Nakuru East,-0.404611,36.1483398,Harrison nganga,735269509,Household,VISP,5,1,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.4041587,36.1539236,Elizabeth Mburu,720888073,Rental Property,Flush toilet linked to a septic tank,55,11,Jane Moraa,726037432,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.4035578,36.1550825,Lakisha Academy,742010492,School,VIDP,52,7,Jane Moraa,726037432,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.4026989,36.1532873,Ziruel Obwocha,722595571,Household,Flush toilet linked to a septic tank,5,3,Jane Moraa,726037432,December,Approved
+Nakuru,N.E,Nakuru East,-0.4012656,36.1484122,Josiah mwangi,721141245,Household,VISP,4,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3940442,36.1498016,Joseph chege,712905857,Other,Septic,95,7,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3920152,36.1496796,Erick Muthomi,725854848,Rental Property,Flush toilet linked to a septic tank,30,10,Metrine Kutoto,717868840,October,Approved
+Nakuru,N.E,Nakuru East,-0.3878328,36.1517496,Eliud kinyanjui,723566484,Rental Property,Flush toilet linked to a septic tank,50,10,Metrine Kutoto,717868840,October,Approved
+Nakuru,N.E,Nakuru East,-0.3878307,36.1517417,Lucy njeri,720485632,Household,Flush toilet linked to a septic tank,28,5,Metrine Kutoto,717868840,October,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3874736,36.1518655,Jane,723517288,Rental Property,Flush toilet linked to a septic tank,80,16,Dedan gitau,796050990,December,Approved
+Nakuru,N.E,Nakuru East,-0.387442,36.1548222,Tony,724292900,Rental Property,Flush toilet linked to a septic tank,50,10,Metrine Kutoto,717868840,October,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3842096,36.1516733,Monica muthoni,711591265,Household,VISP,15,7,Dedan gitau,796050990,December,Approved
+Nakuru,N.E,Nakuru East,-0.3781311,36.1531037,Bernard kirui,746255235,Household,Septic,30,10,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3766776,36.1536979,Kihara,756036852,Rental Property,Septic,40,11,Esther kairu,740288790,November,Approved
+Nakuru,N.E,Nakuru East,-0.3759748,36.1510419,Joyce Nyambura,792507034,Household,Septic,9,2,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3747933,36.1535418,Sammy,724689246,Household,Flush toilet linked to a septic tank,16,4,Esther kairu,740260799,October,Approved
+Nakuru,N.E,Nakuru East,-0.3740705,36.1494158,Ruth ndichu,724122805,Other,Septic,20,3,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3737068,36.1520575,David kurer,754846494,Rental Property,Septic,60,10,Metrine kutoto,717868840,November,Approved
+Nakuru,N.E,Nakuru East,-0.3730928,36.1529843,Salome wangui,727288109,Household,VISP,6,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3730728,36.1529858,Salome wangui,727288109,Household,VISP,6,1,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3712642,36.1516021,Mburu Gichua ,0,Market Place,VISP,100,7,Dedan gitau,796050990,December,Approved
+Nakuru,N.E.,Nakuru East,-0.3661198,36.149614,George Okemwa,72634545,Rental Property,Septic,29,8,Metrine Kutoto,717868840,September,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3658899,36.15623,Sharon,758619005,Household,VISP,4,2,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3654994,36.1563566,Nancy wanjiku,733952593,Household,VISP,3,2,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3642487,36.157189,Irene kemunto,717278102,Household,VISP,6,1,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.364213,36.1584111,Millicent,720923088,Household,VISP,5,3,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3633816,36.1513353,Stella wanjiru,715572229,Household,Flush toilet linked to a septic tank,10,4,Emma wairimu,701087462,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3626429,36.1561143,Ann njeri,718219748,Household,VISP,2,1,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3614399,36.1577216,Joseph maina,721672991,Household,VISP,4,2,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3614137,36.1551027,Grace kuria,720424328,Rental Property,Flush toilet linked to a septic tank,10,4,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3613264,36.1549926,Isabella Rotich,714917248,Rental Property,Flush toilet linked to a septic tank,6,2,Josephine mwikali,710862137,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3613213,36.1553272,Judith mbinya,726020634,Household,VISP,3,4,Josephine mwikali,710862137,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.361321,36.1549949,Isabella Rotich,714917248,Rental Property,VISP,5,3,Josephine mwikali,710862137,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3611792,36.1575464,Martha njoki,700724322,Rental Property,Flush toilet linked to a septic tank,10,5,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3610731,36.158042,Boniface,702077878,Household,VISP,6,1,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3610539,36.1560989,Lucy wambui,723965708,Household,VISP,2,1,Josephine mwikali,710862137,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3604916,36.1582722,Jane,707774199,Rental Property,Flush toilet linked to a septic tank,20,8,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3602803,36.1588056,Loreen,791724116,Household,VISP,3,2,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3602346,36.1549272,Dadson ngatia,722680911,Household,Flush toilet linked to a septic tank,20,6,Daisy kalunde,724756699,December,Approved
+Nakuru,N.E,Nakuru East,-0.3602215,36.1502151,Vincent musaa,725168941,Other,VIDP,40,3,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.360122,36.1506733,Vincent musaa,725168941,Other,Septic,40,8,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3599305,36.1583246,Elizabeth,725416370,Household,VISP,3,2,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3598428,36.1542338,Esther,722555010,Household,VISP,2,1,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3597022,36.1587583,Everlyn,798841733,Household,Flush toilet linked to a septic tank,12,5,Josephine mwikali,710862137,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3585128,36.1548954,Selina jesica,728013550,Household,Flush toilet linked to a single leach pit,3,1,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3581363,36.1546634,Stephen Maina,798671744,Household,Flush toilet linked to a septic tank,5,7,Daisy kalunde,724756699,December,Approved
+Nakuru,N.E.,Nakuru East,-0.358114,36.1458483,James kuruga,754864948,Household,Septic,8,5,Metrine Kutoto,717868840,September,Approved
+Nakuru,N.E.,Nakuru East,-0.357676,36.1477428,Rukongo,75288563,Rental Property,Septic,50,15,Metrine kutoto,717868840,October,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3546001,36.1529803,Karigi muraguri,723149428,Other,Flush toilet linked to a septic tank,98,23,Dedan gitau,796050990,December,Approved
+Nakuru,N.E,Nakuru East,-0.3544848,36.1483124,Fred juma,751166113,School,Septic,100,8,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3532179,36.1521148,Purity ngatia,726106362,Household,VISP,7,2,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3520427,36.1491682,James karuga,72134908,Rental Property,Flush toilet linked to a septic tank,58,12,Dedan gitau,796050990,December,Approved
+Nakuru,N.E,Nakuru East,-0.3495546,36.1523322,Nicolas ngithinji,720422196,Household,VISP,6,2,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3494941,36.1510743,Nganga mwangi,745670784,Household,VISP,5,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3445643,36.1485223,Deliverance church,797243052,Other,VISP,25,2,Metrine Kutoto,717868840,October,Approved
+Nakuru,N.E,Nakuru East,-0.3444314,36.1485179,Peter Gichana,757568560,Other,VISP,150,2,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3441765,36.1536425,Lucy mungai,701763679,Household,VISP,10,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.W,Barut,-0.3437343,36.0465396,Daniel nyamache,718900351,Household,Flush toilet linked to a septic tank,300,49,Faith oreyo,725588811,October,Approved
+Nakuru,N.E,Nakuru East,-0.3433361,36.1544811,Alice wamuyu,792727279,Household,VISP,4,1,Teresia muthoni,716924426,November,Approved
+Nakuru,N.E,Nakuru East,-0.3429415,36.1550396,Carol wangare,729558951,Household,VISP,5,1,Susan njeri,717728476,November,Approved
+Nakuru,N.E,Nakuru East,-0.3428764,36.1547253,Samwel kariuki,725503256,Household,VISP,10,1,Susan njeri,717728476,November,Approved
+Nakuru,N.E,Nakuru East,-0.3428037,36.1527763,Winnie mweru,726528478,Household,VISP,6,1,Susan njeri,717728476,November,Approved
+Nakuru,N.W,Barut,-0.3427353,36.0473381,Daniel,718900035,Household,Flush toilet linked to a septic tank,250,35,Pauline Akiru,725156127,October,Approved
+Nakuru,N.E,Nakuru East,-0.3426582,36.1549879,Jane wanjiku,720473425,Household,VISP,2,2,Susan njeri,717728476,November,Approved
+Nakuru,N.E,Nakuru East,-0.3426228,36.1559967,Dancun Auma,710716736,Household,VISP,16,1,Susan njeri,717728476,November,Approved
+Nakuru,N.W,Barut,-0.3424333,36.0472929,Samwel sang,716684635,Rental Property,Septic,45,15,Partrick mwangi,718600133,November,Approved
+Nakuru,N.E,Nakuru East,-0.3422845,36.15573,Jane muthoni,723705215,Household,VISP,6,1,Teresia muthoni,716924426,November,Approved
+Nakuru,N.W,Barut,-0.3422156,36.046477,Lidia,725863820,Household,VIDP,6,2,Pauline Akiru,725156127,October,Approved
+Nakuru,N.W,Barut,-0.3421715,36.0486843,Francis siglai,722598212,Household,Flush toilet linked to a single leach pit,4,2,Faith oreyo,725588811,October,Approved
+Nakuru,N.W,Barut,-0.3420888,36.0481812,Dorcas waitimo,795184645,Household,Flush toilet linked to a septic tank,3,2,Faith oreyo,725588811,October,Approved
+Nakuru,N.W,Barut,-0.3419632,36.0465081,Mwaki,725869532,Household,VIDP,6,3,Faith oreyo,725588811,October,Approved
+Nakuru,N.W,Barut,-0.3419399,36.0481952,Lowrenc wanjoi,703543119,Household,VISP,3,2,Pauline Akiru,725156127,October,Approved
+Nakuru,N.W,Barut,-0.3417855,36.0466077,Antony,711333299,Household,Flush toilet linked to a double leach pit,4,3,Faith oreyo,725588811,October,Approved
+Nakuru,N.E,Nakuru East,-0.341721,36.1477191,Samwel waithaka,799102166,Household,VISP,1,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3417182,36.1474868,Samwel waithaka,799102166,Household,VISP,1,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3416623,36.1474257,Lazarus simiyu,703358148,Household,Septic,4,3,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3416432,36.1474491,Lazarus simiyu,703358148,Household,VISP,3,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.W,Barut,-0.3416014,36.0463587,Eunice atieno,793918231,Household,VISP,10,2,Pauline Akiru,725156127,October,Approved
+Nakuru,N.W,Barut,-0.3415798,36.04637,Eliud wachia,727258218,Household,Flush toilet linked to a single leach pit,4,3,Faith oreyo,725588811,October,Approved
+Nakuru,N.E,Nakuru East,-0.3415219,36.1448775,Andrew munio,723871534,Rental Property,Septic,30,10,George Kamau,740260799,November,Approved
+Nakuru,N.E,Nakuru East,-0.3412889,36.1567412,Julia wanjiru,719809959,Household,VISP,1,1,Teresia muthoni,716924426,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3411298,36.0340713,Janet Orangi,739636716,Household,Flush toilet linked to a double leach pit,6,1,Gilbert Bwire,719307016,December,Approved
+Nakuru,N.W.,Barut,-0.340961,36.0376481,James yegon,726735237,Household,Leach pit,6,4,Faith oreyo,725588811,September,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3408528,36.1626403,Alex kiiru,716707485,Household,Flush toilet linked to a septic tank,16,6,Emma wairimu,701087462,December,Approved
+Nakuru,N.E,Nakuru East,-0.3401989,36.1492349,Susan ngugi,718495444,Household,VISP,15,4,Teresia muthoni,716924426,November,Approved
+Nakuru,N.W,Barut,-0.3400859,36.0359444,Patrick Okwamba,714296562,Household,Septic,15,4,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Barut,-0.339711,36.0491,Joseph bett,716116620,Rental Property,Septic,7,,Faith oreyo,725588811,August,Approved - Under reported should be 16
+Nakuru,N.E,Nakuru East,-0.3384134,36.1480241,Samwel nderitu,727573020,Household,VISP,1,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3383674,36.1480299,Samwel waithaka,727573020,Household,VISP,1,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.338359,36.1480165,Samwel nderitu,727573020,Household,VISP,1,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.W,Barut,-0.3383523,36.0480333,Nicholas terer,703452423,Rental Property,Flush toilet linked to a septic tank,8,8,Pauline Akiru,725156127,October,Approved
+Nakuru,N.E,Nakuru East,-0.3383136,36.1479885,Charles muturi,720709260,Household,Septic,4,4,Emma wairimu,701087462,November,Approved
+Nakuru,N.W,Barut,-0.3381431,36.0480074,William adhiambo,723466364,Household,VISP,7,4,Faith oreyo,725588811,October,Approved
+Nakuru,N.E,Nakuru East,-0.3380828,36.1479825,Charles mwangi,720709260,Household,VIDP,20,4,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3380597,36.1612454,Josephine gathoni,742753742,Household,VISP,4,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3380124,36.148042,Charles muturi,720709260,Household,VISP,4,4,Emma wairimu,701087462,November,Approved
+Nakuru,N.W,Barut,-0.3378029,36.0471479,Jecton onyango,721591042,Household,VISP,5,2,Pauline Akiru,725156127,October,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3376957,36.1619675,Salome wanjiku,717521314,Household,Flush toilet linked to a septic tank,36,10,Susan njeri,717728476,December,Approved
+Nakuru,N.W.,Barut,-0.3371099,36.0383741,Philimon langat,727730052,Household,VISP,4,3,Faith oreyo,725588811,September,Approved
+Nakuru,N.E,Nakuru East,-0.336215,36.1519334,Samwel Ronoh,723398547,Other,Septic,5000,34,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3362017,36.1519441,Sammy Rono,723398547,Other,Septic,2000,34,Emma wairimu,701087462,November,Approved
+Nakuru,N.W.,Barut,-0.3360489,36.0385715,Job anyona,756602493,Household,Septic,2,3,Pauline Akiru,725156127,September,Approved
+Nakuru,N.W,Barut,-0.3357005,36.0507857,Peter,75369821,Household,Flush toilet linked to a single leach pit,6,2,Pauline Akiru,725156127,October,Approved
+Nakuru,N.W,Barut,-0.3356687,36.0504574,Fredrick,724803669,Household,Flush toilet linked to a single leach pit,7,2,Pauline Akiru,725156127,October,Approved
+Nakuru,N.W,Barut,-0.3347232,36.0524912,Nicholas macharia,704894936,Household,Septic,9,8,Faith oreyo,725588811,November,Approved
+Nakuru,N.W.,Barut,-0.33472,36.0546,Dan mbugua,706123453,Rental Property,Septic,10,8,Faith oreyo,725588811,July,"Approved,"
+Nakuru,Nakuru Town West,Barut,-0.3345705,36.0550532,Paul etiang,729944947,Rental Property,Flush toilet linked to a septic tank,12,9,Agnes makori,710183928,December,Approved
+Nakuru,N.W,Barut,-0.3345567,36.0546353,Dancan mbugua,706123453,Rental Property,Septic,63,5,Faith oreyo,725588811,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3343818,36.0328843,Daniel Nyamora,720044115,Household,VIDP,5,3,Catherine chepkurui,700908913,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3343575,36.0500925,Enok Simba,724921661,Household,Flush toilet linked to a septic tank,8,2,Christine were,723127784,October,Approved
+Nakuru,N.W.,Barut,-0.3341924,36.0524856,Jamaica,712412460,Rental Property,Septic,8,2,Faith oreyo,725588811,September,Approved
+Nakuru,N.E,Nakuru East,-0.3341883,36.1459184,Janet kingori,790048005,Other,VIDP,200,2,Emma wairimu,701087462,November,Approved
+Nakuru,N.W,Kapkures,-0.334158,36.0273099,Christopher Towet,722808056,Rental Property,Flush toilet linked to a septic tank,28,6,Jeniffer Cherop,722577155,October,Approved
+Nakuru,N.W.,Barut,-0.3339228,36.0414849,Marcella ogutue,726716908,Household,Septic,2,2,Pauline Akiru,725156127,September,Approved
+Nakuru,N.E,Nakuru East,-0.3338279,36.1466603,Susan Nyambura,724770668,Other,Septic,150,5,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3337844,36.1467444,Susan Nyambura,724770668,Other,Septic,150,6,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3336843,36.1496384,Mbithe,722235593,Rental Property,Septic,55,15,Samuel chege,704928932,November,Approved
+Nakuru,Nakuru Town West,Barut,-0.3335284,36.0543835,Dominic kipkoech ,720891360,Household,Flush toilet linked to a septic tank,4,4,Agnes makori,710183928,December,Approved
+Nakuru,N.W,Barut,-0.3334298,36.049262,Adson murila,726297661,Household,D. Leach pit,5,2,Faith oreyo,725588811,November,Approved
+Nakuru,N.W.,Barut,-0.3333461,36.040335,Susan kwamboka,707973919,Household,Leach pit,1,2,Faith oreyo,725588811,September,Approved
+Nakuru,N.E,Nakuru East,-0.333069,36.1471682,John kangiri,780517545,Market Place,Septic,2000,5,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3329937,36.1471645,Ruth wangare,735269509,Market Place,VIDP,200,3,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town West,Barut,-0.3328464,36.0554486,John kago,711716752,Household,Flush toilet linked to a septic tank,6,2,Agnes makori,710183928,December,Approved
+Nakuru,Nakuru Town West,Barut,-0.3328283,36.0554994,John kago,711716752,Household,Flush toilet linked to a septic tank,6,2,Agnes makori,710183928,December,Approved
+Nakuru,N.E.,Nakuru East,-0.3328241,36.1426053,Samuel njogu,72568954,Rental Property,Septic,40,8,Metrine Kutoto,717868840,September,Approved
+Nakuru,N.W.,Mwariki,-0.332616,36.0596,John wanyoike,722643370,Other,Septic,10,8,Faith oreyo,725588811,July,Approved
+Nakuru,N.W.,Barut,-0.3326097,36.0426305,Tinny luhaha,713211189,Household,Leach pit,5,2,Faith oreyo,725588811,September,Approved
+Nakuru,N.W,Barut,-0.332607,36.059,John wanyoike,722643370,Rental Property,Septic,10,,Faith oreyo,725588811,August,Approved
+Nakuru,N.W.,Barut,-0.3325529,36.0380987,Morine,725087026,Household,Leach pit,6,3,Faith oreyo,725588811,September,Approved
+Nakuru,N.E,Nakuru East,-0.3324681,36.141708,David mbugua,723412536,Rental Property,Flush toilet linked to a septic tank,40,8,Metrine Kutoto,717868840,October,Approved
+Nakuru,N.E.,Nakuru East,-0.3322634,36.1422822,Mwaura,727660248,Rental Property,Septic,25,5,Metrine kutoto,717868840,October,Approved
+Nakuru,N.W,Kapkures,-0.3319942,36.0303892,Simon Boro,726703926,Household,VISP,6,2,Catherine Kosgei.,70090891,October,Approved
+Nakuru,N.W,Barut,-0.3319102,36.0481187,Thomas koech,727234869,Household,VISP,4,2,Faith oreyo,725588811,October,Approved
+Nakuru,N.W,Barut,-0.3317673,36.0459406,Ann,724798767,Household,Septic,6,2,Faith oreyo,725588811,November,Approved
+Nakuru,N.W,Barut,-0.331698,36.0461844,Joswa maina,720848013,Household,VISP,6,2,Faith oreyo,725588811,November,Approved
+Nakuru,Nakuru Town West,Barut,-0.3316289,36.045711,Anastashia,734963426,Household,VISP,6,5,Faith oreyo,725588811,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3314668,36.146468,Justus Haggai,781555077,Household,Flush toilet linked to a septic tank,48,16,Emma wairimu,701087462,December,Approved
+Nakuru,Nakuru Town West,Barut,-0.3313238,36.0546447,Joseph obara,725630652,Rental Property,Flush toilet linked to a septic tank,11,6,Agnes makori,710183928,December,Approved
+Nakuru,N.E,Nakuru East,-0.3311853,36.1459365,Faith wairimu,724254197,Household,VIDP,10,3,Emma wairimu,701087462,November,Approved
+Nakuru,N.W.,Barut,-0.3305596,36.0436444,Jared otieno,728377129,Household,Septic,8,2,Pauline Akiru,725156127,September,Approved
+Nakuru,N.W,Kapkures,-0.3300921,36.0323565,Gilbert Kaibe,720014546,Household,VISP,6,2,Catherine Kosgei,700908913,October,Approved
+Nakuru,N.W,Kapkures,-0.3300436,36.0316772,Kenend Birech,727883620,Rental Property,Flush toilet linked to a septic tank,30,6,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W.,Barut,-0.3300422,36.0422878,Joice Jared,702555577,Household,Septic,6,3,Pauline Akiru,725156127,September,Approved
+Nakuru,N.W.,Barut,-0.3298906,36.0380693,Christopher,723969444,Household,Septic,6,3,Pauline Akiru,725156127,September,Approved
+Nakuru,N.W,Barut,-0.3297067,36.0466518,Robert odhiambo,724978921,Household,VISP,6,2,Faith oreyo,725588811,October,Approved
+Nakuru,N.W.,Barut,-0.3296025,36.0376594,William ndege,721102965,Household,Leach pit,6,3,Faith oreyo,725588811,September,Approved
+Nakuru,N.W,Barut,-0.329591,36.0553,Shem ongeri,725642859,Household,Septic,6,,Faith oreyo,725588811,August,Approved - Under reported should be 3
+Nakuru,N.W.,Barut,-0.3293579,36.0378408,Edith momanyi,710445658,Household,Septic,5,3,Pauline Akiru,725156127,September,Approved
+Nakuru,N.W.,Barut,-0.3289131,36.0513835,Sophy hassan,722105227,Household,Leach pit,5,2,Faith oreyo,725588811,September,Approved
+Nakuru,N.W.,Barut,-0.3288024,36.0384111,Daniel nyamache,710900351,Household,Septic,8,4,Pauline Akiru,725156127,September,Approved
+Nakuru,N.W.,Barut,-0.3287798,36.0513967,Saumu cherono,790546478,Household,Leach pit,3,2,Faith oreyo,725588811,September,Approved
+Nakuru,N.E,Nakuru East,-0.3286306,36.1444601,Simiyu Melchizedek,79200425,Other,VIDP,20,3,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town West,Barut,-0.3286243,36.0388024,Daniel nyamache,79632418,Household,VISP,6,4,Faith oreyo,725588811,December,Approved
+Nakuru,N.W.,Barut,-0.3283663,36.0524996,Elly omtubia,727003729,Rental Property,Septic,14,6,Faith oreyo,725588811,September,Approved
+Nakuru,N.W,Barut,-0.3283205,36.0552584,Tom,723091000,Household,Flush toilet linked to a septic tank,2,2,Pauline Akiru,725156127,October,Approved
+Nakuru,N.W.,Barut,-0.3282965,36.03874,Hosea kirui,712418745,Household,Septic,3,2,Pauline Akiru,725156127,September,Approved
+Nakuru,N.W,Barut,-0.3280469,36.0551007,Samuel njau,71407600,Household,Flush toilet linked to a double leach pit,6,2,Faith oreyo,725588811,October,Approved
+Nakuru,N.W,Kapkures,-0.3280052,36.0385657,James okubaso,724492659,Household,Flush toilet linked to a septic tank,6,3,Jacob kigen,722997818,October,Approved
+Nakuru,Nakuru Town West,Barut,-0.3277285,36.0530844,Everline,710350119,Rental Property,Flush toilet linked to a septic tank,13,5,Agnes makori,710183928,December,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3274225,36.0388954,Concepter Kerubo,759064848,Household,Flush toilet linked to a septic tank,8,4,Jacob Kigen,722997818,December,Approved
+Nakuru,Nakuru Town West,Barut,-0.3273499,36.0390134,Benson,725802131,Rental Property,Flush toilet linked to a septic tank tank,12,2,Pauline Akiru,725126157,December,Approved
+Nakuru,N.W,Barut,-0.3268088,36.0421554,Eunice wangare,704894267,Household,Flush toilet linked to a single leach pit,6,1,Faith oreyo,725588811,October,Approved
+Nakuru,N.E,Nakuru East,-0.3267277,36.153716,Isaac ndegwa,72379633,Household,Septic,60,14,Daisy kalunde,724756699,November,Approved
+Nakuru,N.W,Barut,-0.3266249,36.0551199,Fredrick mina,71340306,Rental Property,Flush toilet linked to a septic tank,14,7,Faith oreyo,725588811,October,Approved
+Nakuru,N.E,Nakuru East,-0.3265298,36.1433273,Joseph muhoro,1652337,Other,VISP,200,5,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.3257491,36.1491929,Chosen church,700076776,Other,Septic,200,8,Daisy kalunde,724756699,November,Approved
+Nakuru,N.W,Barut,-0.325655,36.0404692,Samson sitienei,725442030,Rental Property,VISP,12,2,Pauline Akiru,725156127,October,Approved
+Nakuru,N.E,Nakuru East,-0.3240964,36.1401178,Glad we'll ,721584406,Market Place,Septic,200,5,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3238305,36.1472591,Kamau kinuthia,717276619,Household,Flush toilet linked to a septic tank,60,30,Emma wairimu,701087462,December,Approved
+Nakuru,N.W,Barut,-0.3237561,36.040872,Alice mutai,720845159,Household,Flush toilet linked to a single leach pit,5,2,Pauline Akiru,725156127,October,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3234054,36.1534836,Fred,742195620,Rental Property,Flush toilet linked to a septic tank,50,13,Samuel chege,704928932,December,Approved
+Nakuru,N.E,Menengai,-0.3233053,36.1522924,Barnabas,772627918,Rental Property,Septic,49,14,Metrine Kutoto,717868840,November,Approved
+Nakuru,N.W,Barut,-0.322994,36.0476493,Beatrice cherotich,720649920,Rental Property,Flush toilet linked to a septic tank,56,12,Faith oreyo,725588811,October,Approved
+Nakuru,N.E,Nakuru East,-0.3228389,36.1532542,James Mugera,72232395,Rental Property,Septic,37,12,Metrine,717868840,November,Approved
+Nakuru,N.W,Barut,-0.3228376,36.0476433,Obadia bett,111299105,Rental Property,Septic,38,12,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3228127,36.1539836,Bernard,75574353,Rental Property,Flush toilet linked to a septic tank,77,13,Metrine Kutoto,717868840,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3227664,36.1460678,Allan mathenge,725305006,Rental Property,Flush toilet linked to a septic tank,30,10,George Kamau,791329981,December,Approved
+Nakuru,N.W,Barut,-0.3226471,36.044718,Joseph ndungu,724419917,Household,Flush toilet linked to a septic tank,200,10,Faith oreyo,725588811,October,Approved
+Nakuru,Nakuru Town West,Barut,-0.3225739,36.0445655,Mungano ,724419917,Household,Flush toilet linked to a septic tank tank,5,,Faith oreyo,725588811,December,Approved
+Nakuru,N.E.,Menengai,-0.3225478,36.1532655,Maina,70728380,Rental Property,Septic,23,8,Metrine Kutoto,717868840,September,Approved
+Nakuru,N.W,Kapkures,-0.3223784,36.0335288,James kibet,725983678,Household,Flush toilet linked to a septic tank,7,3,Jacob Kigen,722997818,October,Approved
+Nakuru,Nakuru Town West,Barut,-0.3223368,36.0477688,Asha tepsile,711352704,Household,VISP,5,,Faith ore yo,725588811,December,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3221062,36.0578548,Peris nyambura,791044317,Household,Flush toilet linked to a septic tank,5,3,Christine were,723127784,December,Approved
+Nakuru,N.W,Kapkures,-0.3220992,36.0338828,Silas Bomtich,727939149,Rental Property,Septic,24,8,Jacob Kigen,722997818,November,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3220367,36.0582469,Mose mwangi,727917790,Household,Flush toilet linked to a septic tank,5,3,Christine were,723127784,December,Approved
+Nakuru,N.E,Nakuru East,-0.3219672,36.1475119,Hillary,795770960,Rental Property,Septic,50,12,Samuel chege,704928932,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3219163,36.1534726,Vincent,78072417,Rental Property,Flush toilet linked to a septic tank,69,15,Metrine Kutoto,717868840,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3215037,36.1547202,Mary wambui,743707110,Household,Flush toilet linked to a septic tank,12,4,Emma wairimu,701087462,December,Approved
+Nakuru,N.E,,-0.3214536,36.1531462,Peter Mburu,780470444,Rental Property,Septic,12,5,Mary Njeri,708816868,November,Approved
+Nakuru,N.W,Kapkures,-0.3209344,36.0355345,Enoch Bowen,723900845,Household,Flush toilet linked to a septic tank,8,3,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Rhoda,-0.3205828,36.058382,Philemon Omwega,722816309,Rental Property,Bio-digester,7,5,Agnes makori,710183928,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3205765,36.1426234,Maureen,70660149,Household,Flush toilet linked to a septic tank,3,1,Daisy kalunde,724756699,December,Approved
+Nakuru,N.W,Rhoda,-0.3203227,36.0564045,Amani,706833798,Rental Property,Septic,32,10,Mose njenga,722627504,November,Approved
+Nakuru,Nakuru Town West,Kapkures location,-0.320272,36.0364,Sillus kipgeny,718644852,Household,Flush toilet linked to a septic tank tank,6,3,Jacob Kigen,722997818,June,Approved
+Nakuru,N.W.,Kiptenden,-0.32004,36.0579,Stephen ogutu,724500470,Household,D.Leach,6,3,Faith oreyo,725588811,July,Approved
+Nakuru,N.E,Menengai,-0.3200237,36.1537237,Munyua,705633962,Rental Property,Septic,21,6,Metrine Kutoto,717868840,November,Approved
+Nakuru,N.W,Rhoda,-0.3198865,36.0570627,Daisy tanui,789322221,Rental Property,Septic,30,10,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.W,Kapkures,-0.3197257,36.0385582,Enoch Chelaite,721751440,Household,Flush toilet linked to a septic tank,9,3,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W.,Kapkures,-0.319683,36.0402,Josphat Tuwei,722917053,Household,Septic,8,4,Jacob Kigen,722997818,July,Approved
+Nakuru,N.W,Kaptembwa,-0.3196452,36.0544869,Mumbo,710793231,Household,Septic,5,2,Christine were,723127784,November,Approved
+Nakuru,N.W,Barut,-0.3196192,36.0427368,Prisca tanui,726641984,Rental Property,Flush toilet linked to a single leach pit,6,2,Faith oreyo,725588811,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3195642,36.0574856,Charles mwangi,742360705,Household,Flush toilet linked to a septic tank,3,3,Christine were,723127784,December,Approved
+Nakuru,N.W,Barut,-0.3195628,36.0582495,Peter,72698541,Household,Flush toilet linked to a septic tank,3,6,Faith,72558881,October,Approved
+Nakuru,N.W,Kapkures,-0.3194672,36.0343651,Patrick lengwa,727592996,Household,Flush toilet linked to a septic tank,6,2,Jacob Kigen,722997818,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.319463,36.0528469,Peter macharia,726741737,Household,Flush toilet linked to a septic tank,7,1,Christine were,723127784,December,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3194481,36.0531794,Ruben njenga,726718905,Household,Flush toilet linked to a septic tank,3,2,Christine were,723127784,December,Approved
+Nakuru,N.W,Kapkures,-0.3193443,36.0340205,Jonathan komen,720736784,Household,Flush toilet linked to a septic tank,5,2,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3193098,36.0543955,Joshua gichuki,720541803,Household,Flush toilet linked to a septic tank,5,2,Christine were,723127784,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3192767,36.0539169,Margaret molinge,729785056,Household,Flush toilet linked to a septic tank,3,1,Christine were,723127784,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3192247,36.0541057,Carolina eroche,722638975,Household,Flush toilet linked to a septic tank,5,2,Christine were,723127784,October,Approved
+Nakuru,N.W,Rhoda,-0.3191265,36.0588174,Mary wangoi,720754581,Household,Septic,5,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Rhoda,-0.3191198,36.0588736,Virginia njoroge,720490751,Household,Septic,7,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3191127,36.0535845,Joyce nduta,723939892,Household,D. Leach pit,3,1,Christine were,723127784,November,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.319061,36.0576067,Patrick ndumia,723758879,Household,Flush toilet linked to a septic tank,3,4,Christine were,723127784,December,Approved
+Nakuru,N.W,Kapkures,-0.319024,36.0271,Christopher kimwei,788150127,Household,Septic,6,,Jacob Kigen,722997818,August,Approved
+Nakuru,N.W,Barut,-0.318965,36.0416377,Prisca tanui,726641984,Household,Flush toilet linked to a septic tank,4,2,Pauline Akiru,725156127,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3189638,36.0540726,Susan gaitho,711,Household,Flush toilet linked to a septic tank,4,2,Christine were,723127784,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3188212,36.0537751,Mary nduta,725996226,Household,Flush toilet linked to a septic tank,5,1,Christine were,723727784,October,Approved
+Nakuru,N.W,Kaptembwa,-0.31881,36.052915,Ruben biria,725325955,Household,Flush toilet linked to a septic tank,4,1,Christine were,723127784,October,Approved
+Nakuru,N.W,Kapkures,-0.3187401,36.0408623,Bernard Obwocha,739643097,Household,VIDP,5,4,Olipha Mandere,713878761,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3187264,36.0530577,Nakuru county,20100,Other,Septic,8,6,Christine were,723127784,November,Approved
+Nakuru,N.W,Rhoda,-0.3186983,36.0650567,Antony ndegwa,720467558,Rental Property,Flush toilet linked to a septic tank,40,8,Jecinta wanjiku,705744928,October,Approved
+Nakuru,N.E,Nakuru East,-0.3186855,36.1591268,Tabitha wanjiku,726558539,Rental Property,Septic,28,12,Esther kairu,740260799,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3186769,36.0540971,Dan ochieng,720232777,Rental Property,Flush toilet linked to a septic tank,3,1,Christine were,723127784,October,Approved
+Nakuru,N.W,Rhoda,-0.3186595,36.0572247,Mweresa,728922878,Rental Property,Septic,21,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.318645,36.0539933,Rebecca jowi,72092694,Household,Flush toilet linked to a double leach pit,4,2,Christine were,723127784,October,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3186287,36.1599398,Musa papa,111592348,Rental Property,Flush toilet linked to a septic tank,30,12,George Kamau,791329981,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3185686,36.0541507,Silas abuti,72755563,Household,Flush toilet linked to a single leach pit,10,2,Christine were,72312778,October,Approved
+Nakuru,N.W,Rhoda,-0.3185667,36.0670062,Micheal Kimani,727729153,Rental Property,Flush toilet linked to a septic tank,42,6,Ruth Nduta,726772574,October,Approved
+Nakuru,N.W,Rhoda,-0.3184648,36.0664639,Mary kamau,722140523,Other,Flush toilet linked to a septic tank,61,8,Ruth Nduta,726772574,October,Approved
+Nakuru,N.W,Kapkures,-0.3183921,36.0344963,Neddy ngeny,723303937,Rental Property,Flush toilet linked to a septic tank,30,7,Jacob Kigen,722997818,October,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.318352,36.0647739,Samuel ndirangu,720905201,Rental Property,VIDP,33,8,Betty Mibei,726367342,December,Approved
+Nakuru,N.E,Nakuru East,-0.3183413,36.1376639,Esther njoki,715579311,Household,VISP,5,1,Susan njeri,717728476,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3182949,36.054352,Virginia wairimu,705593863,Household,Septic,2,1,Christine were,723127784,November,Approved
+Nakuru,N.W,Rhoda,-0.318173,36.0662707,Simon maina,720535808,Rental Property,Septic,39,4,Jecinta wanjiku,705744928,November,Approved
+Nakuru,N.W,Kapkures,-0.3181195,36.0375096,Henry kemboi,721851605,Rental Property,Flush toilet linked to a septic tank,30,7,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Rhoda,-0.3180988,36.0641604,Jalaba mwangi,720214538,Rental Property,Septic,60,10,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.W,Barut,-0.3180807,36.0505695,Samuel ngeno,721818412,Household,Flush toilet linked to a septic tank,9,4,Agnes makori,710183928,October,Approved
+Nakuru,N.W.,Rhoda,-0.3180617,36.0572867,Rebecca waweru,727070053,Household,VISP,10,4,Lindah kerubo,724467799,September,Approved
+Nakuru,N.W,Rhoda,-0.3180613,36.0651856,Jecinter Njeri,723905414,Rental Property,Flush toilet linked to a septic tank,32,5,Moses Njenga,722627504,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3179611,36.0544827,Dorin musula,727895446,Household,Flush toilet linked to a septic tank,6,1,Christine were,723127784,October,Approved
+Nakuru,N.E,Nakuru East,-0.317929,36.1359895,Hellen muthoni,724254197,Household,VISP,0,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3179108,36.0594148,Peter karago,720641628,Rental Property,Septic,32,8,Moses njenga,722627504,November,Approved
+Nakuru,N.W,Barut,-0.3178939,36.0487263,Peter onsomu,72699357,Household,VISP,5,2,Faith oreyo,725588811,November,Approved
+Nakuru,N.W.,,-0.3178771,36.0668653,Samuel Maina ,723905414,Rental Property,Septic,72,18,Ruth Nduta Gitau,726772574,September,Approved
+Nakuru,N.W,Rhoda,-0.3178756,36.0591692,Susan wachera,799699419,Household,Septic,7,3,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.31786,36.0591217,Miriam wachera,706050439,Household,Septic,4,3,Moses njenga,722627504,November,Approved
+Nakuru,N.W,Rhoda,-0.3178512,36.0645826,Eunice ragira,722687426,Rental Property,Septic,15,6,Moses njenga,722627504,November,Approved
+Nakuru,N.W,Rhoda,-0.3178453,36.0645793,Isabella,713988828,Rental Property,Main Sewer,87,10,Moses njenga,722627504,November,Approved
+Nakuru,N.W,Rhoda,-0.3178453,36.0645793,Sammy ikua,72684784,Rental Property,Main Sewer,39,7,Moses njenga,722627504,November,Approved
+Nakuru,N.W,Kapkures,-0.3178118,36.0399248,Jeremiah Osombi,712300614,Household,VIDP,5,3,Olipha mandere,713878761,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3177468,36.0586601,Arapha abdala,743145225,Household,Septic,5,1,Christine were,723127784,November,Approved
+Nakuru,N.W,Rhoda,-0.3177295,36.0624198,John wanjohi ,720936215,Rental Property,Septic,,25,Ester muthoni,714819413,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3176697,36.1622233,Eunice Njoroge,723390130,Rental Property,Flush toilet linked to a septic tank,30,10,George Kamau,791329981,December,Approved
+Nakuru,N.W,Kapkures,-0.3176541,36.0396823,Victor Mobegi,728462994,Rental Property,D. Leach pit,15,3,Olipha mandere,713878761,November,Approved
+Nakuru,N.W,Rhoda,-0.3174712,36.0610889,Ruphasi thuo,715646449,Household,Septic,36,6,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.W,Kapkures,-0.3174406,36.0408823,Peter Matoke,722992553,Rental Property,Septic,,8,Jacob Kigen,7.23E+08,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3174177,36.0596646,Grace wambui,718155811,Household,Septic,4,1,Christine were,723127784,November,Approved
+Nakuru,N.E,Nakuru East,-0.3174093,36.1349567,Rebeka nanyiru,794023939,Household,VISP,4,1,Harun kamau,723142755,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3173347,36.0519661,Dominic,726964720,Household,Septic,5,1,Mercy moraa oanda,726257044,November,Approved
+Nakuru,N.W,Kapkures,-0.3173178,36.0409949,David Sorobi,721442096,Household,Septic,,4,Gilbert Bwire,719307016,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3172982,36.0518419,Ladia Ogeto,799929063,Household,Septic,4,1,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3172365,36.051955,ROSE KALONDU,721860205,Household,Septic,3,1,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kapkures,-0.3170488,36.0412391,Erick Abira,723177999,Rental Property,D. Leach pit,20,6,Olipha mandere,713878761,November,Approved
+Nakuru,N.W,Barut,-0.316999,36.0496594,Mercy chepkorir,725640101,Household,Flush toilet linked to a single leach pit,3,2,Pauline Akiru,725156127,October,Approved
+Nakuru,N.W,Kapkures,-0.3169784,36.0401496,Elizabeth mubeki,710704221,Rental Property,Flush toilet linked to a septic tank,15,5,Gilbert Bwire,719307016,October,Approved
+Nakuru,N.W,Rhoda,-0.316912,36.0678,Joshua otieno,722792066,Rental Property,Septic,30,,Martin ngare,720397426,August,Approved
+Nakuru,N.W,Kapkures,-0.3169041,36.0407157,Samuel Kiplagat,713353069,Rental Property,Septic,50,14,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3168032,36.0587411,John wanjoi,725364215,Household,Septic,5,1,Christine were,723127784,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3167933,36.0584567,Kamau,724754374,Rental Property,Flush toilet linked to main sewer,32,13,Patrick mwangi,718600133,December,Approved
+Nakuru,N.E,Nakuru East,-0.3167534,36.156386,Ndegwa,721100799,Rental Property,Bio-digester,50,12,Samuel chege,704928932,November,Approved
+Nakuru,N.W,Rhoda,-0.3166881,36.0574362,Samwuel mbuthia,724656945,Rental Property,Septic,30,10,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.E.,Menengai,-0.3166838,36.1446992,Okumu,74863129,Rental Property,Septic,37,8,Metrine Kutoto,717868840,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3166834,36.0534612,John ndongo,720560006,Household,Septic,4,2,Mercy moraa oanda,726257044,November,Approved
+Nakuru,N.E,Nakuru East,-0.3166716,36.1551003,George Njoroge,722584578,Rental Property,Septic,30,12,Esther kairu,740260799,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3166675,36.0535365,John KARIUKI,721347294,Household,Septic,5,2,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.316645,36.0573499,John mburu,748214614,Household,Septic,2,1,Christine were,723127784,November,Approved
+Nakuru,N.W,Rhoda,-0.316604,36.0575689,Mbugua,724656910,Rental Property,Septic,24,16,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3164916,36.0529011,JOSEPH JUMA,703258707,Rental Property,Septic,,1,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3164832,36.0523822,MWANGO MIRIUKI,726177183,Rental Property,Septic,26,4,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3163044,36.0546082,Saron njokl,700817109,Household,Septic,5,3,MERCY MORAA OANDA,726257044,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3163019,36.1586159,Pastor nganga,701428325,Household,Flush toilet linked to a septic tank,10,,Emma wairimu,701087462,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3162778,36.0562778,John mwangi,721879345,Household,D. Leach pit,2,1,Christine were,23127784,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3162684,36.0545922,MARY NJOKI,700770047,Household,VIDP,6,2,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3159425,36.0409768,James kipkaren,734711033,Rental Property,Flush toilet linked to a septic tank,26,16,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3159064,36.0526155,MARY wanjiku,708454095,Household,Septic,5,1,Mercy MORAA oanda,726257044,November,Approved
+Nakuru,N.W,Kaptembwa,-0.315879,36.0527963,Alice Gathigia,721165862,Household,Septic,,1,MERCY MORAA OANDA,726257044,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3157934,36.0616674,John muchai,723335904,Rental Property,Flush toilet linked to a septic tank,38,8,Ruth nduta gitau,726772574,December,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3157579,36.0369546,Patrick Orina,724639954,Rental Property,Flush toilet linked to a septic tank,9,3,Jacob Kigen,722997818,December,Approved
+Nakuru,N.W,Kapkures,-0.3157267,36.0396581,Emily Korir,720640104,Rental Property,Septic,12,5,Gilbert Bwire,719307016,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3157126,36.0407165,Rose sang,731450914,Rental Property,Flush toilet linked to a septic tank,12,3,Agnes makori,710153928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3157104,36.0528847,HELLEN ANYANGO,708233397,Household,Septic,4,1,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Barut,-0.3156849,36.0498864,Langat,725763767,Other,Flush toilet linked to a septic tank,250,5,Faith oreyo,725588811,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3156757,36.0527431,MARY WANJA,799389340,Rental Property,Septic,20,2,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3156745,36.0526578,DAMARIS ONDERI,727392241,Household,Septic,,1,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3156619,36.052899,Clememet kirui,724467127,Household,Septic,4,3,Mercy moraa oanda,726257044,November,Approved
+Nakuru,Nakuru Town West,Barut,-0.315642,36.0500779,Langat,725896321,Other,Flush toilet linked to a septic tank tank,250,,Faith oreyo,725588811,December,Approved
+Nakuru,N.W,Rhoda,-0.3156306,36.062907,Catherine wakonyo,704410149,Rental Property,Septic,36,9,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.31563,36.05275,Susan wanjiku,722945103,Rental Property,Septic,12,2,MERCY MORAA OANDA,726257044,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3155859,36.054668,ANN NYAMBURA,710372783,Household,Septic,5,1,MERCY MORAA OANDA,726257044,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3155647,36.0533343,PETER SIMON,725353206,Rental Property,VIDP,35,3,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3155111,36.0548551,JANE WANJIKU,728000307,Rental Property,Septic,9,3,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kapkures,-0.3154773,36.041639,Robinson Ateya,721696496,Rental Property,Septic,20,4,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.3154597,36.0629779,Cicilia wacheke,721347259,Rental Property,Flush toilet linked to a septic tank,32,8,Jecinta wanjiku,705744928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3154263,36.0533676,EVANS MOCHOMA,727486790,Household,Septic,,2,MERCY MORAA OANDA,726257044,November,Approved
+Nakuru,N.W,Rhoda,-0.3154083,36.0685167,Beatrice Wanja ,722230831,Rental Property,Main Sewer,32,11,Moses njenga,722627504,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3153634,36.0528789,LINET KERUBO,792617756,Household,Septic,,1,Mercy MORAA Oanda,726257044,November,Approved
+Nakuru,N.W,Kapkures,-0.3153574,36.0418233,James ocharo,720396571,Rental Property,Septic,20,4,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Barut,-0.315348,36.0476498,Richard barusei,723509308,Household,Flush toilet linked to a double leach pit,12,4,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Rhoda,-0.3153466,36.0617172,Mary mbaire,724585745,Rental Property,Septic,38,10,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3153366,36.0416534,Samuel nyaberi,707690444,Rental Property,Flush toilet linked to a bio-digester,32,2,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3152859,36.0530378,Samuel ngie,718866252,Household,Septic,10,1,MERCY MORAA OANDA,726257044,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3152685,36.0539207,MESHACK KARIUKI,726384976,Household,Septic,6,2,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.315192,36.0531263,JOHN KARUGU,723159941,Rental Property,Septic,,2,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3151738,36.0540653,MARGARET MOHE ,710523889,Rental Property,Septic,48,3,MERCY MORAA OANDA,726257044,November,Approved
+Nakuru,N.E,Nakuru East,-0.3151654,36.1553571,David Kamau,724827076,Rental Property,Septic,30,10,George Kamau,791329981,November,Approved
+Nakuru,N.E,Nakuru East,-0.3151654,36.1553571,Kevin Munyoro,733789660,Rental Property,Bio-digester,40,15,George Kamau,791329981,November,Approved
+Nakuru,N.W,Rhoda,-0.3151468,36.0604741,Rose mary,721353976,Rental Property,Condominium sewer,100,14,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.W,Rhoda,-0.3151328,36.0677923,Grace Ndungu,718791010,Rental Property,Condominium sewer,103,30,Patrick Mwangi,718600133,November,Approved
+Nakuru,N.E,Nakuru East,-0.3151268,36.155831,George murima,725102385,Market Place,Septic,50,15,Samuel chege,704928932,November,Approved
+Nakuru,N.W,Kapkures,-0.3151167,36.0419067,Bernard Makore,725594342,Rental Property,Septic,10,4,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.3151068,36.0572476,Flora Njoki nganga,708168639,Household,Septic,4,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3151021,36.0411371,Sharon Kiptui,726398641,Rental Property,Septic,,15,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3150696,36.041024,Mrs kiptum,710183928,Rental Property,Flush toilet linked to a septic tank,32,15,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kapkures,-0.315053,36.040961,Sharon kiptui,726398641,Rental Property,Septic,,15,Jacob Kigen,722997818,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3150089,36.032345,Fredrick Kiprono,721965518,Household,VIDP,6,3,Olipha mandere,713878761,December,Approved
+Nakuru,N.W,Rhoda,-0.3149627,36.0598705,Rosemary wandia,702229155,Rental Property,Main Sewer,42,9,Agnes makori,710183928,November,Approved
+Nakuru,N.W.,Kwazi,-0.314942,36.0654,Simon Kagiri,722287461,Rental Property,Septic,55,3,Ruth nduta,726772574,July,Approved
+Nakuru,N.W,Rhoda,-0.3148649,36.0687184,Ramadhan mawezi,726478949,Rental Property,Condominium sewer,72,8,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3147493,36.0392006,Isaac Yatich,721274256,Rental Property,Flush toilet linked to a septic tank,30,11,Jacob Kigen,722997818,December,Approved
+Nakuru,N.W,Rhoda,-0.3147061,36.0663503,Joel kamau,723584294,Rental Property,Septic,60,5,Moses njenga,722627504,November,Approved
+Nakuru,N.W,Rhoda,-0.3146951,36.0671275,Moses karunga,721779828,Rental Property,Condominium sewer,47,6,Martin Ngare,720397426,November,Approved
+Nakuru,N.W,Rhoda,-0.314676,36.0564381,Samwel mugo,736871520,Rental Property,Septic,23,9,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Rhoda,-0.314658,36.0649286,Joyce wambui,723697769,Rental Property,Flush toilet linked to a septic tank,100,26,Stella wangui,746383322,October,Approved
+Nakuru,N.W,Rhoda,-0.3146039,36.0627999,Bernice Nyokabi,72681878,Rental Property,Flush toilet linked to a septic tank,72,18,Stella wangui,746383322,October,Approved
+Nakuru,N.W,Rhoda,-0.3145626,36.0600579,Margaret nderitu,721994737,Rental Property,Condominium sewer,60,6,Lucy wanjiku,724551254,November,Approved
+Nakuru,N.W,Rhoda,-0.3145617,36.0600886,Bethany wanjiru,726995951,Rental Property,Condominium sewer,60,8,Patrick mwangi,718600133,November,Approved
+Nakuru,N.W,Rhoda,-0.3145539,36.0627104,Bernard Njihia,72033394,Rental Property,Flush toilet linked to a septic tank,51,12,Tabitha wanjiru,729866057,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3145085,36.0534579,Sarah wamboi,702979658,Rental Property,Septic,12,3,Mercy MORAA oanda,726257044,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.314401,36.0549017,Kepha,722411464,Rental Property,Flush toilet linked to a septic tank,63,11,Moses njenga,722627540,December,Approved
+Nakuru,N.W,Rhoda,-0.3143914,36.0688765,Pastor peter,734744823,Other,Condominium sewer,100,8,Jecinta wanjiku,705744928,November,Approved
+Nakuru,N.W,Rhoda,-0.3143911,36.0670358,Paul Mwangi,726929133,Other,Flush toilet linked to the condominium sewer,533,5,Catherine Muchina,725886881,October,Approved
+Nakuru,N.W,Kapkures,-0.3142065,36.0403471,Simon Bowen,724360723,Rental Property,Flush toilet linked to a septic tank,35,7,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Rhoda,-0.3141428,36.0606532,John maingi,712519783,Rental Property,Condominium sewer,27,9,Patrick mwangi,718600133,November,Approved
+Nakuru,N.W,Rhoda,-0.3141113,36.0625555,Simon mbuthia,722962300,Rental Property,Flush toilet linked to a septic tank,21,4,Tabitha wanjiru,729866057,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3140711,36.0545194,Mary mbungu,710935040,Household,S. Leach pit,3,1,Mercy MORAA oanda,726257044,November,Approved
+Nakuru,N.W,Rhoda,-0.3140579,36.0606632,Kelvin odanda,714296407,Rental Property,Main Sewer,11,11,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Barut,-0.31404,36.045507,Japhet Obwera,724861936,Rental Property,Septic,39,13,Jacob Kigen,722997818,November,Approved
+Nakuru,,N.W.,-0.3140339,36.0631199,Stephen Charge,723396981,Rental Property,Septic,30,6,Tabitha Wanjiru,729866057,September,Approved
+Nakuru,N.W,Kapkures,-0.3139716,36.0401392,Christopher Mboga,713180292,Rental Property,D. Leach pit,6,2,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3139138,36.0577323,Ezekiel mucheke,720390710,Household,Septic,2,1,Christine,723127784,November,Approved
+Nakuru,N.W.,Kwanzi,-0.313842,36.0673,Maina Ndirangu,739541313,Rental Property,Sewer,20,3,Ruth Nduta,726772574,July,Approved
+Nakuru,N.W.,Kaptembwa,-0.3138396,36.0530478,William Otieno,725300630,Rental Property,Septic,14,4,Agnes makori,710183928,September,Approved
+Nakuru,N.W,Rhoda,-0.3138183,36.0676517,Gladys mumbi,724741705,Rental Property,Flush toilet linked to the condominium sewer,35,5,Jecinta wanjiku,705744928,October,Approved
+Nakuru,N.W,Rhoda,-0.3137392,36.0646909,Nelly nyokabi,726002614,Household,Septic,57,8,Lucy wanjiku,724551254,November,Approved
+Nakuru,N.W,Rhoda,-0.3137392,36.0646909,Nelly nyokabi,726002614,Household,Septic,57,8,Lucy wanjiku,724551254,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3136795,36.0584955,Stephen wanjoke,722493328,Household,Septic,6,2,Christine were,723127784,November,Approved
+Nakuru,N.W.,Hadasa,-0.313665,36.0671,Public health office,728153005,Other,D.Leach,15,3,Ken macharia,799088807,July,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3136333,36.06703,Thomas njenga ,795840705,Rental Property,Flush toilet linked to a septic tank,33,3,Kennedy kibiru,718979224,December,Approved
+Nakuru,Nakuru Town West,Kwazi,-0.313604,36.061,Robert Gichangi ,70397680,Rental Property,Flush toilet linked to a septic tank tank,40,3,Martin ngare,720397426,June,Approved
+Nakuru,N.W,Rhoda,-0.3135357,36.0619906,Robert Maina,750975668,Rental Property,Flush toilet linked to the condominium sewer,111,4,Stella Wangui,746383322,October,Approved
+Nakuru,N.W,Kapkures,-0.3135273,36.0348931,Dickson ongangi,721970248,Rental Property,Flush toilet linked to a septic tank,15,3,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Rhoda,-0.313442,36.0676758,Faith Ngina,717519755,Rental Property,Condominium sewer,,11,Jecinta wanjiku,705744928,November,Approved
+Nakuru,N.W,Rhoda,-0.3134304,36.0691789,David,113994780,Rental Property,Flush toilet linked to main sewer,48,16,Bilha Njeri,700354546,October,Approved
+Nakuru,N.W,Kapkures,-0.3134054,36.0394678,Jofery Mageto,720929476,Rental Property,Flush toilet linked to a septic tank,30,11,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W.,Kaptembwa,-0.3133955,36.052695,Nickolas nduhio,711843755,Household,Septic,7,2,Agnes makori,710183928,September,Approved
+Nakuru,N.W.,Kaptembwa,-0.3133914,36.0529012,Axing MOHAMMWD,723396354,Rental Property,Septic,28,14,Agnes makori,710183928,September,Approved
+Nakuru,N.W,Kaptembwa,-0.3133899,36.0529013,Asm,72339635,Rental Property,sewer,14,14,Mercy MORAA Oanda,726257044,November,Approved
+Nakuru,N.W,Rhoda,-0.3133681,36.0560278,David wambugu,722402393,Household,Septic,5,6,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3131715,36.0416038,Simon Rotich,10400927,Rental Property,Flush toilet linked to a septic tank,8,6,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kapkures,-0.3131074,36.0415914,Simon Rotich,711104783,Rental Property,Flush toilet linked to a septic tank,15,8,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3130183,36.0584198,Patrick muleshe,724161849,Household,Septic,5,1,Christine were,723127784,November,Approved
+Nakuru,N.W,Rhoda,-0.3129617,36.0682452,Evans wanyoike,724773241,Rental Property,Condominium sewer,107,26,Purity Kimari,720470471,November,Approved
+Nakuru,N.W,Kapkures,-0.3129239,36.0412482,Evans Omweri,714988758,Household,S. Leach pit,6,4,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.3129233,36.065749,George Kareithi,722635112,Other,Flush toilet linked to the condominium sewer,242,9,Jecinta Wanjiku,705744928,October,Approved
+Nakuru,N.W,Kapkures,-0.3128893,36.036565,Steven Mwendwa,711566809,Rental Property,Flush toilet linked to a septic tank,15,3,Jacob kigen,722997818,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.312759,36.0545679,mary wambui,711562871,Household,Flush toilet linked to a septic tank tank,4,2,Eunice chelangat,712791736,December,Approved
+Nakuru,N.W,Rhoda,-0.3127425,36.0624072,Nganga,783215241,Rental Property,Condominium sewer,25,4,Ruth Nduta,726772574,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3127331,36.053587,Ann kungu,72522171,Rental Property,Septic,12,6,Mercy moraa,726257044,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3127217,36.0539508,Wamai,710736725,Rental Property,Septic,25,6,Mercy moraa,726257044,November,Approved
+Nakuru,N.W,Kapkures,-0.3126179,36.0377863,Nicolas Kurui,721970248,Rental Property,Septic,,8,Jacob Kigen,722997818,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.312615,36.0454131,Kipkoech mosonic,727378634,Household,Flush toilet linked to a septic tank,8,4,Jacob Kigen,722997818,December,Approved
+Nakuru,N.W,Kapkures,-0.3125873,36.0378106,Nicolas kurui,721970248,Rental Property,Flush toilet linked to a septic tank,30,8,Jacob kigen,722997818,October,Approved
+Nakuru,Nakuru Town West,Barut,-0.3124172,36.0486444,William osando,708919805,Rental Property,Flush toilet linked to a septic tank tank,16,5,Faith,725588811,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3123967,36.0549642,Atika,722790855,Rental Property,Septic,10,4,Mercy moraa,726257044,November,Approved
+Nakuru,N.W,Kapkures,-0.3123863,36.0412385,Priscilla Biwott,711380695,Rental Property,D. Leach pit,20,6,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,,-0.3123747,36.063887,Harnton kimani,716777936,Rental Property,Flush toilet linked to the condominium sewer,90,7,Moses Njenga,722627504,October,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3123674,36.0608449,Gikonyo,726776305,Rental Property,Flush toilet linked to main sewer,21,19,Agnes makori,710183928,December,Approved
+Nakuru,N.W,Kapkures,-0.3123435,36.0353024,Linna,723094438,Rental Property,Septic,45,15,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.312343,36.0654633,James Munene,710150266,Rental Property,Flush toilet linked to a septic tank,97,6,Stella wangui,746383322,October,Approved
+Nakuru,N.W,Rhoda,-0.3122116,36.0639155,Francis Muchiri,722679833,Rental Property,Flush toilet linked to a septic tank,93,22,Stella Wangui,746383322,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3122002,36.0559318,Vincent mokobi,729054572,Rental Property,VISP,26,8,Lindah kerubo,724467799,December,Approved
+Nakuru,N.W,Rhoda,-0.3121391,36.065113,Joyce muthoni,11494074,Rental Property,Main Sewer,39,13,Stella wangui,746383322,November,Approved
+Nakuru,N.W,Rhoda,-0.3121171,36.0683048,Moses wachira,729209381,Rental Property,Condominium sewer,111,26,Purity Kimari,720470471,November,Approved
+Nakuru,N.W,Rhoda,-0.3120988,36.0659424,Gitonga,722322070,Rental Property,Flush toilet linked to a septic tank,20,5,Jecinta wanjiku,705744928,October,Approved
+Nakuru,N.W,Rhoda,-0.3120895,36.0587767,Joshua Nyambane,724629065,Household,Septic,4,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Rhoda,-0.3120895,36.0587767,Abigael wangare,742730087,Household,Septic,8,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Rhoda,-0.3120895,36.0587767,Francis Njoroge,721791359,Household,Septic,6,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Rhoda,-0.3120895,36.0587767,Wilfred onyango,75231856,Rental Property,Septic,12,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,,-0.3120704,36.0612576,Mbugua,727711595,Rental Property,Condominium sewer,31,9,Ruth nduta gitau,726772574,November,Approved
+Nakuru,N.W,Barut,-0.3120634,36.0477034,Japhet Obwera,724861936,Rental Property,Septic,30,13,Jacob kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.312055,36.0628717,Timothy kabutu,727786155,Rental Property,Flush toilet linked to the condominium sewer,76,16,Stella wangui,746383322,October,Approved
+Nakuru,N.W,Barut,-0.3120546,36.047808,Japhet obwera,724861936,Rental Property,Septic,39,13,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3119808,36.0475959,Jeff Omuko,724861936,Rental Property,Flush toilet linked to a septic tank,7,5,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Rhoda,-0.3119784,36.0645618,Esther kimani,72486079,Rental Property,Flush toilet linked to a septic tank,20,5,Jecinta wanjiku,705744928,October,Approved
+Nakuru,N.W,Rhoda,-0.3119312,36.0621506,Damaris Njeri kibe,725856095,Household,Flush toilet linked to main sewer,3,2,Catherine waruguru,725886881,October,Approved
+Nakuru,N.W,Rhoda,-0.3116668,36.0536681,Mutai,720908729,School,VISP,400,13,Faith oreyo,725588811,October,Approved
+Nakuru,N.W,Kapkures,-0.3116204,36.0314939,Jofery Tanui,725831898,Rental Property,Septic,24,9,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W.,Kapkures,-0.311612,36.034,Nicolas kirui,721970248,Rental Property,Septic,40,8,Jacob kigen,722997818,July,Approved
+Nakuru,N.W,Kapkures,-0.3115888,36.0339686,Nicolas Kirui,721970248,Rental Property,Flush toilet linked to a septic tank,30,15,Gilbert Bwire,719307016,October,Approved
+Nakuru,N.W,Rhoda,-0.3114788,36.0659287,Catherine njeri,720679316,Rental Property,Flush toilet linked to the condominium sewer,57,4,Lucy wanjiku,724551254,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3114582,36.0514385,Lilian Akoth,720459384,Household,Flush toilet linked to a septic tank,12,3,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Rhoda,-0.311375,36.0655573,Musa Nganga,722299546,Rental Property,Flush toilet linked to the condominium sewer,48,14,Stella Wangui,746383322,October,Approved
+Nakuru,N.W,Kapkures,-0.3113522,36.0317252,Faridah Kandie,715854253,Rental Property,Septic,5,2,Gilbert Bwire,719307016,November,Approved
+Nakuru,N.W,Rhoda,-0.3113461,36.0656598,Kimani kigangi,724229346,Rental Property,Condominium sewer,45,12,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3112416,36.0521081,Joyce mutavi,718578982,Household,Flush toilet linked to a septic tank,4,2,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Kapkures,-0.3112415,36.0367372,Nehema mukorori,722759261,Rental Property,Flush toilet linked to a septic tank,30,10,Jacob kigen,722997818,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3112375,36.052532,ROSE ASIKO,769395020,Household,Septic,6,2,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3112375,36.052532,JOYCE AKINYI,726257044,Rental Property,Septic,21,3,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3112375,36.052532,MERCY LINE ,705002318,Household,Septic,4,2,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3112375,36.052532,KEFA NYAEGA,722411464,Rental Property,Bio-digester,100,5,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Rhoda,-0.3112358,36.0601116,Samwel,722307527,Rental Property,Condominium sewer,36,8,Partrick mwangi,718600133,November,Approved
+Nakuru,N.W,Rhoda,-0.3112033,36.0654121,Wachira,72307034,Rental Property,Flush toilet linked to the condominium sewer,20,11,Jecinta,705744928,October,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3111836,36.056058,Joseph gitee,724451916,Household,Flush toilet linked to a septic tank,12,3,Moses njenga,722627504,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3111652,36.0599073,George kinyanjui,714729750,Rental Property,Septic,32,10,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Rhoda,-0.3111557,36.0642113,Erastus macharia,721107922,Rental Property,Flush toilet linked to a septic tank,42,7,Moses njenga,722627504,October,Approved
+Nakuru,N.W,Kapkures,-0.3110798,36.037596,John Komen,750928511,Rental Property,Flush toilet linked to a septic tank,5,2,Gilbert Bwire,719307016,October,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3109805,36.0378863,Wilfred Kipsaine,727827676,Other,VIDP,250,8,Olipha mandere,713878761,December,Approved
+Nakuru,N.W,Kapkures,-0.310975,36.0367927,Lonah kandagor,713160403,Rental Property,VIDP,25,5,Gilbert Bwire,719307016,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3109312,36.1489531,Georgina Wairimu,786147278,Rental Property,Flush toilet linked to a septic tank,30,10,George Kamau,791329981,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3109252,36.0609349,Douglas,726432356,Rental Property,Septic,28,12,Agnes makori,710183928,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3108548,36.0649431,Joseph ndiku,726694700,Rental Property,Flush toilet linked to a septic tank,38,6,Moses njenga,722627504,December,Approved
+Nakuru,N.W,Kapkures,-0.3107331,36.0296566,Cornellias Kisia,726109741,Household,Septic,6,3,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.3107267,36.0605267,Lucy mugure,720355973,Rental Property,Septic,45,8,Lucy Wanjiku,724551254,November,Approved
+Nakuru,N.W,Kapkures,-0.3107138,36.040938,Richard Amdany,720949455,Rental Property,Septic,30,10,Jacob Kigen,722997818,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3107126,36.0644454,Gerald kirimi,722857309,Rental Property,Flush toilet linked to a septic tank tank,47,13,Jecinta Wanjiku,705744928,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3107039,36.052699,IRINE DIKIEL,30101288,Rental Property,Septic,15,3,MERCY MORAA OANDA,726257044,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.310672,36.0406,Yohana yego,710479744,Rental Property,Flush toilet linked to a septic tank tank,20,5,Jacob kigen,722997818,June,Approved
+Nakuru,N.W,Kaptembwa,-0.3106393,36.0501838,Lilian Apondi,723218884,Household,Flush toilet linked to a double leach pit,3,1,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Rhoda,-0.3105803,36.0601883,?Njau,791716703,Rental Property,Flush toilet linked to a septic tank,13,7,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kapkures,-0.31058,36.0389517,Jacob kigen,722997818,Health Facility,Flush toilet linked to a septic tank,20,6,Brian,722997818,October,Approved
+Nakuru,N.W,Kapkures,-0.3105798,36.0294184,Samuel Kandie,721391921,Household,Septic,9,3,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.3103993,36.0604942,John njuguna,722478313,Rental Property,Condominium sewer,21,7,Moses njenga,722627504,November,Approved
+Nakuru,N.E,Nakuru East,-0.3103534,36.1493507,John,720884914,Rental Property,Bio-digester,45,8,Samuel chege,704928932,November,Approved
+Nakuru,N.W,Rhoda,-0.3103049,36.0677964,Pastor Jaoko,722478003,Other,Condominium sewer,320,10,Ruth Nduta,726772574,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3102995,36.0525157,Teresa Nyakundi,72477499,Household,Flush toilet linked to a septic tank,27,4,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3102692,36.040575,Yegon,710479744,Rental Property,Flush toilet linked to a septic tank,9,5,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3102371,36.0518746,Joel Momanyi,710107139,Household,Flush toilet linked to a septic tank,22,3,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Kapkures,-0.310212,36.0296311,Silvester Njoroge,711707937,Household,Septic,5,3,Jacob Kigen,722997818,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3101784,36.0624741,Emmanuel njagu,718511036,Rental Property,Flush toilet linked to the condominium sewer,62,34,Stella wangui,746383322,December,Approved
+Nakuru,N.W,Kapkures,-0.3101731,36.0295422,Julius Komen,726937322,Household,Septic,6,3,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kapkures,-0.31008,36.0334,Nicholas Kirui,721970248,Household,Septic,13,,Jacob Kigen,722997818,August,Approved
+Nakuru,N.W,Kaptembwa,-0.3100164,36.0545873,ELIABETH WANJIKU,725978295,Household,Septic,5,2,MARY NJERI,700701626,November,Approved
+Nakuru,N.W,Rhoda,-0.3099517,36.0663911,Joel kago,720898071,Rental Property,Septic,26,6,Jecinta wanjiku,705744928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3098747,36.0549763,Rose muyuka,712036398,Household,Flush toilet linked to a septic tank,14,4,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Kaptembwa,-0.309873,36.054979,Bonfes Omurwa,713015680,Household,Flush toilet linked to a septic tank,5,2,Jane mburu,723940812,October,Approved
+Nakuru,N.E,Nakuru East,-0.3098197,36.1456306,DOH,71086213,Health Facility,VIDP,200,6,Josephine ngunza,710862137,November,Approved
+Nakuru,N.E,Nakuru East,-0.309762,36.145678,Doh,741926309,Health Facility,VISP,50,6,Daisy kalunde,724756699,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3096449,36.1482726,Okanga,721922836,Rental Property,Flush toilet linked to a septic tank,50,13,Samuel chege,704928932,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3096418,36.0354756,Alex,734146805,Rental Property,Flush toilet linked to a bio-digester,13,3,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Rhoda,-0.3096293,36.067605,Mary mbugua,711831463,Household,Main Sewer,6,2,Ruth mwaura,717925166,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3095775,36.0549686,Rose muyuka,712036398,Household,Flush toilet linked to a septic tank,14,1,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3095086,36.0524539,George Ouma,720077235,Household,Flush toilet linked to a septic tank,5,1,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Kapkures,-0.3094023,36.0354589,Jackson Ruto,111204643,Rental Property,S. Leach pit,45,15,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.3093819,36.0658538,Stephen njuguna,700452289,Other,Condominium sewer,45,3,Jecinta wanjiku,705744928,November,Approved
+Nakuru,N.W,Kapkures,-0.3093787,36.029637,Amos Kiptundur,721868608,Household,Septic,8,4,Ken Mungai,791880078,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3093683,36.0353817,Toi,72118392,Rental Property,Flush toilet linked to a septic tank,23,6,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kapkures,-0.3093364,36.0425558,Enoch Kurui,771268595,Rental Property,Septic,20,8,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3092747,36.0530066,Jascah khaisa,715208194,Household,Flush toilet linked to a septic tank,8,2,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3092747,36.0530066,Wafula,3,Household,Flush toilet linked to a septic tank,9,2,Jane mburu,723940812,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3092747,36.0530066,Daniel kabinga,729702951,Household,Flush toilet linked to a septic tank,15,2,Jane mburu,723940812,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3091978,36.0472285,Joseph martim,723421332,Rental Property,Flush toilet linked to a septic tank,11,6,Agnes makori,710183928,December,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3091649,36.0651629,Peter kimani,724848809,Rental Property,Flush toilet linked to a septic tank tank,18,9,Stella wangui,746383322,December,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3091095,36.0303453,Julia Chemchor,721678999,Household,Flush toilet linked to a single leach pit,9,3,Olipha mandere,713878761,December,Approved
+Nakuru,N.W,Kapkures,-0.3091031,36.0301884,Bernard Rob,721270453,Household,Septic,7,3,Ken mungai,791880078,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3090652,36.0639856,Vincent,710453134,Rental Property,Flush toilet linked to a septic tank,23,6,Moses njenga,722627504,December,Approved
+Nakuru,N.W,Kapkures,-0.3090567,36.0318819,Dickson mengich,724558461,Household,Septic,21,5,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3090399,36.0469396,Henry okuku,712035688,Rental Property,Septic,4,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Rhoda,-0.308994,36.0613005,Sarah ruto,723380000,Rental Property,Condominium sewer,21,7,Patrick mwangi,718600133,November,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3089928,36.0549029,Evans mungai,713312348,Household,Flush toilet linked to a septic tank tank,5,1,Eunice chelangat,712791736,December,Approved
+Nakuru,N.W,Rhoda,-0.308989,36.0626104,Beth njeri,713016169,Rental Property,Main Sewer,32,18,Moses Njenga,722627504,November,Approved
+Nakuru,N.W,Kapkures,-0.308897,36.0368203,Shadrach Sigei,725314727,Rental Property,Flush toilet linked to a septic tank,50,10,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Kapkures,-0.3088516,36.0589293,Charles Obwocha,723552675,Rental Property,Flush toilet linked to a septic tank,15,4,Olipha Mandere,713878761,October,Approved
+Nakuru,N.W,Kapkures,-0.3087671,36.0367959,Richard Bett,722456338,Rental Property,Flush toilet linked to a septic tank,75,15,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W.,Kapkures,-0.308748,36.0341,Joel Chebon,725228476,Rental Property,Septic,80,18,Jacob Kigen,722997818,July,Approved
+Nakuru,N.W,Kapkures,-0.3086533,36.0371889,Musa Chebor,722337017,Rental Property,Septic,30,10,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3086364,36.052863,Mwangi,72876987,Household,Flush toilet linked to a septic tank,0,3,Jane mburu,723940812,October,Approved
+Nakuru,N.E,Nakuru East,-0.3085948,36.1475189,Josphat muhuro,101652337,Other,Septic,15,3,Emma wairimu,701087462,November,Approved
+Nakuru,N.W,Kapkures,-0.3085102,36.0369075,Musa chebor,722337017,Rental Property,Septic,,17,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kapkures,-0.3084608,36.0367664,Iren Chemtai,753786000,Rental Property,Septic,,6,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3084062,36.0526218,Jane maina,723094606,Household,S. Leach pit,4,1,Jane mburu,723940812,November,Approved
+Nakuru,N.W,Kapkures,-0.3083929,36.036968,Joshua chelangat,722632788,Rental Property,VIDP,,6,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.3083727,36.0644197,County Government,72215794,Market Place,Flush toilet linked to the condominium sewer,300,8,Martin ngare,720397426,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3083392,36.0529063,Nathan Akama,724792911,Household,Septic,3,1,Jane mburu,723940812,November,Approved
+Nakuru,N.W,Rhoda,-0.3083066,36.0654409,Grace njambi,721574186,Household,Septic,42,14,Stella wangoi,746383322,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3082792,36.0531238,Samwel Ongeri,787881508,Household,S. Leach pit,5,2,Jane mburu,723940812,November,Approved
+Nakuru,N.W,Kapkures,-0.3082003,36.0350569,Chailse koiba,112050444,Rental Property,Flush toilet linked to a septic tank,30,7,Jacob kigen,722997818,October,Approved
+Nakuru,N.W,Kapkures,-0.3081627,36.0315414,James Kisin,733552522,Household,Septic,5,2,Gilbert Bwire,719307016,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3080941,36.051099,Charles Njuguna,714903577,Household,Flush toilet linked to a septic tank,15,12,Jane mburu,723970812,October,Approved
+Nakuru,N.W,Rhoda,-0.3080796,36.0630243,James ribui,720532048,Rental Property,Condominium sewer,42,4,Purity kimari,720470471,November,Approved
+Nakuru,N.W,Kapkures,-0.3080722,36.0362935,Stephania Ontere,725414205,Rental Property,Septic,20,6,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Rhoda,-0.3079877,36.0619391,Benard nyamweya,722790739,Rental Property,Condominium sewer,32,8,Jecinta wanjiku,705744928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3079539,36.0618362,Salim koroba,726982183,Rental Property,Condominium sewer,26,16,MARY NJERI,700701626,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3079452,36.0680442,Joseph kinuthia,750051130,Rental Property,Flush toilet linked to the condominium sewer,10,5,Stella wangui,746383322,December,Approved
+Nakuru,N.W,Rhoda,-0.3078428,36.0603227,Maryanne nyambura,703278135,Rental Property,Septic,36,12,Stella wangui,746383322,November,Approved
+Nakuru,N.W,Kapkures,-0.3077954,36.0366987,Richard Kabuchei,723572866,Rental Property,Septic,25,8,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kapkures,-0.307785,36.0116017,Weisley Bet,729684533,Rental Property,VISP,20,2,Emily C Sang,729002038,October,Approved
+Nakuru,N.W.,Kapkures,-0.3077261,36.0156831,Mr Siele,726673027,Household,Biodigester,12,5,Emily C Sang,729002038,September,Approved
+Nakuru,N.W,Rhoda,-0.3077042,36.0629185,Hassan waiguru,722316020,Rental Property,Condominium sewer,36,4,Purity kimari,720470471,November,Approved
+Nakuru,N.W,Rhoda,-0.3076961,36.0634029,County government,722157943,Other,Flush toilet linked to the condominium sewer,250,8,Martin Ngare,720397426,October,Approved
+Nakuru,Nakuru Town East,Flamingo,-0.3076933,36.0751999,Peter muiriru,71835934,Household,Flush toilet linked to main sewer,25,4,Martha wanjiku,715594559,December,Approved
+Nakuru,N.W,Rhoda,-0.3076902,36.0615107,Mureithi,714372567,Rental Property,Septic,62,5,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3076902,36.038537,Joshua Semete,722606987,Rental Property,Flush toilet linked to a septic tank,30,7,Jacob Kigen,722997818,December,Approved
+Nakuru,N.W,Rhoda,-0.307663,36.0633595,Patrick muhoro,720835562,Rental Property,Flush toilet linked to the condominium sewer,103,24,Martin Ngare,720397426,October,Approved
+Nakuru,N.W,Kaptembwa,-0.307617,36.0481,Steven chepchok,718420735,Household,VISP,6,,FILDA kwamboka,716389805,August,Approved
+Nakuru,N.W,Kaptembwa,-0.307591,36.048,Josep chirchir,723144982,Rental Property,Biodigester,20,,FILDA kwamboka,716389805,August,Approved
+Nakuru,N.W,Kaptembwa,-0.3075181,36.0510166,Laulence,712743640,Household,Flush toilet linked to a single leach pit,22,6,Jane mburu,723940812,October,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.307507,36.0273229,Philip Terer,722618017,Household,Flush toilet linked to a septic tank,6,2,Jacob Kigen,722997818,December,Approved
+Nakuru,N.W,Rhoda,-0.3075037,36.0591098,Vivian awuor,726836336,Rental Property,Septic,86,14,Stella wangui,746383322,November,Approved
+Nakuru,N.W,Rhoda,-0.3074999,36.061801,Dominic kihara,726372162,School,Condominium sewer,339,20,Stella wangui,746383322,November,Approved
+Nakuru,N.W.,Kaptembwa,-0.3074797,36.0490285,Julius tedy,722365614,Rental Property,Septic,23,15,Agnes makori,710183928,September,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3074447,36.0668143,Peter Kamau,716042173,Rental Property,Flush toilet linked to a septic tank,158,26,Moses njenga,722627504,December,Approved
+Nakuru,Nakuru Town East,Flamingo,-0.3074084,36.0673981,Peter,2,Rental Property,Flush toilet linked to the condominium sewer,14,7,Peter ndoho,71980601,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3073712,36.0491839,Antony Ngetich,725580970,Rental Property,Flush toilet linked to a septic tank,9,2,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.307371,36.048,Susan,726769249,Other,VISP,10,,FILDA kwamboka,716389805,August,Approved
+Nakuru,N.W.,Kaptembwa,-0.3073245,36.0528851,Caro,725664057,Rental Property,Septic,21,4,Agnes makori,710183928,September,Approved
+Nakuru,N.W,Kaptembwa,-0.307315,36.0529167,Caro koskey,710183928,Rental Property,Flush toilet linked to a septic tank,9,4,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.307315,36.0529167,Ruth Cheptarus,727415049,Rental Property,Flush toilet linked to a septic tank,18,14,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3072561,36.0508897,Laurence,712743640,Household,Flush toilet linked to a septic tank,23,6,Jane mburu,723940812,October,Approved
+Nakuru,N.E,Nakuru East,-0.3072495,36.0791642,James mwangi,700883748,Rental Property,VISP,18,2,Daisy kalunde and Catherine nduku,724756699,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3071891,36.051807,Rhonald,725077805,Household,Flush toilet linked to a septic tank,12,3,Jane mburu,723940812,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3071574,36.0499674,Caleb omariba,723570089,Rental Property,Flush toilet linked to a septic tank,16,6,Agnes makori,710183928,December,Approved
+Nakuru,N.W,Kapkures,-0.307143,36.013,John Ruto,725740617,Rental Property,VISP,18,,Emily Sang,729002038,August,Approved
+Nakuru,N.W,Kapkures,-0.3070749,36.041789,Richard Juma,725305879,Rental Property,Flush toilet linked to a septic tank,5,2,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3070322,36.0515996,T,0,Household,Septic,5,1,Jane mburu,723940812,November,Approved
+Nakuru,N.W.,Kaptembwa,-0.3069771,36.0511964,Kennedy mose,720660829,Rental Property,VISP,17,4,Agnes makori,710183928,September,Approved
+Nakuru,N.W.,Kaptembwa,-0.3069523,36.0527153,Aggy,710153623,Rental Property,Septic,23,4,Agnes makori,710183928,September,Approved
+Nakuru,N.W,Kaptembwa,-0.3069522,36.0511591,Beatrice Akoth,720810351,Household,Flush toilet linked to a septic tank,49,8,Jane mburu,723940812,October,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3069218,36.0600362,James mahia gese,710736790,Rental Property,Flush toilet linked to the condominium sewer,72,,Jecinta Wanjiku,705744928,December,Approved
+Nakuru,N.W,Rhoda,-0.30672,36.0504,Annstarncia,727231944,Household,Septic,4,,FILDA kwamboka,716389805,August,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3066673,36.0614718,David maina,724292911,Rental Property,Flush toilet linked to a septic tank,23,7,Moses njenga,722627504,December,Approved
+Nakuru,N.W,Rhoda,-0.3066288,36.05969,Mary langat,724993895,Rental Property,Condominium sewer,39,6,Lucy wanjiku,724551254,November,Approved
+Nakuru,Nakuru Town East,Flamingo,-0.3065962,36.0789457,Timothy Mbachia,724215550,Household,Flush toilet linked to a septic tank,103,4,Martha wanjiku,715594559,December,Approved
+Nakuru,N.E,Nakuru East,-0.3065952,36.0790088,Monica njeri,727839136,Rental Property,Septic,38,4,Daisy mwanzia,724756699,November,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3065548,36.0495982,Dickson ondiba,759776895,Household,Flush toilet linked to a septic tank,4,3,Agnes makori,710183928,December,Approved
+Nakuru,N.E,Flamingo,-0.3065344,36.07514,Joseph kimani,746610514,Household,Main Sewer,20,10,Martha wanjiku kimani,715594559,November,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3065338,36.0472302,Raphael Tsialema,724494499,Other,VISP,20,2,FILDA kwamboka,716389805,December,Approved
+Nakuru,N.E,Nakuru East,-0.306514,36.1346316,Ann njunguna,710184583,Household,VISP,4,1,Susan njeri,717728476,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3064385,36.0145407,Nancy,718768526,Household,Flush toilet linked to a septic tank,6,4,Emily c. Sang,729002038,December,Approved
+Nakuru,N.W,Rhoda,-0.3064276,36.0640233,Hillary Rotich,721569164,Other,Main Sewer,300,10,Betty mibei,726367342,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3063678,36.032363,Paul Korir,101339224,Household,Flush toilet linked to a septic tank,9,4,Jacob Kigen,722997818,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3063654,36.047418,Martha Chesang,720784765,School,Flush toilet linked to a septic tank,200,8,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Kapkures,-0.3063447,36.0346291,Justus maritim,722934563,Rental Property,Flush toilet linked to a septic tank,8,5,Gilbert Bwire,719307016,October,Approved
+Nakuru,N.E,Nakuru East,-0.3062853,36.0797169,Margrate,727454591,Household,VIDP,3,2,Daisy mwanzia,724756699,November,Approved
+Nakuru,N.W,Kapkures,-0.3062029,36.0396991,Charles moguku,721274509,Rental Property,Septic,33,10,Jecinta Wanjiku,705744928,November,Approved
+Nakuru,N.W,Rhoda,-0.3061731,36.0597657,Elijah,722790739,Rental Property,Condominium sewer,32,7,Moses njenga,722627504,November,Approved
+Nakuru,Nakuru Town West,Kapkures,-0.3060703,36.011623,Vincent koech,720610688,Household,Flush toilet linked to a septic tank,5,5,Emily c. Sang,729002039,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3060108,36.0294341,Caroline Cheruiyot,10106640,Rental Property,Flush toilet linked to a septic tank,23,3,Agnes makori,710183924,October,Approved
+Nakuru,N.W,Kapkures,-0.3059875,36.0155189,David Obero,733930492,Household,Bio-digester,12,7,Emily chelangat sang,729002038,November,Approved
+Nakuru,N.W,Kapkures,-0.3059532,36.0291172,Peter Ngugi,720744823,Household,Septic,7,3,Gilbert Bwire,719307016,November,Approved
+Nakuru,N.W,Kapkures,-0.3058334,36.0344689,Daniel Chelimo,722371984,Rental Property,Flush toilet linked to a septic tank,25,5,Jacob Kigen,722997818,October,Approved
+Nakuru,N.E,Flamingo,-0.3057405,36.0758676,Japeth omariba,72841259,Other,Main Sewer,400,6,Daisy kalunde,724756699,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3057248,36.0660292,Florence mwenda,736791669,Rental Property,Flush toilet linked to the condominium sewer,25,10,Jecinta Wanjiku,705744928,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3055848,36.0520374,Josphat ogega,724871432,Household,Flush toilet linked to a bio-digester,5,1,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Rhoda,-0.3055741,36.0636122,John maina,722227798,Rental Property,Condominium sewer,45,15,Lucy wanjiku,724551254,November,Approved
+Nakuru,N.W,Rhoda,-0.3055119,36.0634708,Ruth Anasi,729315880,Rental Property,Condominium sewer,93,5,Stella Wangui,746383322,November,Approved
+Nakuru,N.E,Nakuru East,-0.3054462,36.1355844,Mariam wachira,722425870,Household,VIDP,25000,2,Susan njeri,717728476,November,Approved
+Nakuru,Nakuru Town East,Kivumbini,-0.3054194,36.0827703,Flamingo primary,72885106,School,Flush toilet linked to main sewer,624,10,Wanjiku C.Wangui,792498473,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3053458,36.0490334,Thomas,727415049,Rental Property,Flush toilet linked to a septic tank,9,4,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3053196,36.0520572,Esther robert,746193043,Household,Flush toilet linked to a bio-digester,13,2,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kaptembwa,-0.305139,36.0520689,Mary Nyoike,726578704,Household,Flush toilet linked to a septic tank,4,2,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kapkures,-0.3051133,36.0207038,Alice milgo,719488614,Household,VISP,5,1,Emily c sang,729002038,November,Approved
+Nakuru,N.W,Kapkures,-0.3049954,36.037519,David K. Too,723769049,Rental Property,Flush toilet linked to a septic tank,30,11,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3049755,36.0522813,Maurice otieno,729534855,Household,Flush toilet linked to a septic tank,5,2,Agnes makori,710183928,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3049493,36.0538734,CHARLES NADWA,708950442,Rental Property,Flush toilet linked to a septic tank tank,20,4,MARY NJERI,700701626,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3048381,36.050867,Leah wathi,728422727,Household,Flush toilet linked to a septic tank,6,2,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kapkures,-0.3047836,36.0367638,John Nyakina,726732887,Rental Property,Septic,32,8,Ken Mungai,791880078,November,Approved
+Nakuru,N.W.,Kaptembwa,-0.3046719,36.0492647,Mary langat,754803394,Rental Property,Sewer,26,5,Agnes makori,710183928,September,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3045966,36.0628267,Samwel langat,731790739,Rental Property,Flush toilet linked to the condominium sewer,12,4,Jecinta Wanjiku,705744928,December,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.304594,36.0434,Tabitha wanjiru,724099805,Rental Property,Flush toilet linked to a single leach pit,24,6,Filda,773893776,June,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.30457,36.0494,SHADRACK MOCHACHE,711717852,Rental Property,Flush toilet linked to a septic tank tank,42,14,Filda Kwamboka,773893776,June,Approved
+Nakuru,N.W,Kaptembwa,-0.3045589,36.0517619,Grace Chirchir,722649621,Rental Property,Septic,25,10,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3045542,36.051708,Grace Chirchir,722649621,Rental Property,Septic,20,10,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3045316,36.0516744,Grace Chirchir,722649621,Rental Property,Septic,25,10,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3045154,36.0516858,Grace Chirchir,722649621,Rental Property,Septic,25,10,Jacob Kigen,722997818,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3044647,36.0635982,Charles makena,724215946,Rental Property,Flush toilet linked to the condominium sewer,12,6,Jecinta Wanjiku,705744928,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3044552,36.0581726,Kintai kiprono,716295229,Household,Septic,6,2,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Rhoda,-0.3043927,36.0611654,Patrick kiarie,725868647,Rental Property,Septic,22,12,FILDA kwamboka,716389805,November,Approved
+Nakuru,N.W,Kapkures,-0.3043055,36.039325,David Maina,724957478,Other,Flush toilet linked to a septic tank,6,2,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Kapkures,-0.3040005,36.0349167,Carol joel,720268647,Rental Property,Septic,24,8,Jacob Kigen,722997818,November,Approved
+Nakuru,N.W,Kaptembwa,-0.303986,36.0599914,Daniel kimani,724738169,Rental Property,Flush toilet linked to the condominium sewer,38,19,Filda kwamboka,716389805,October,Approved
+Nakuru,N.W,Kapkures,-0.3039791,36.0354015,George Ajoe,720302050,Rental Property,Septic,27,9,Jacob Kigen,722997818,November,Approved
+Nakuru,Nakuru Town East,Flamingo,-0.303974,36.0713028,Pamela muthoni,722467857,Rental Property,Flush toilet linked to main sewer,32,14,Susan matindi,724134922,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3037933,36.0594164,Jane mwangi,720662364,Rental Property,Condominium sewer,18,9,FILDA kwamboka,716389805,November,Approved
+Nakuru,N.W,Kapkures,-0.3037512,36.0354915,Joseph Kangongo,722432238,Rental Property,Flush toilet linked to a septic tank,30,5,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3035738,36.0591671,John waithaka,726957014,Household,Condominium sewer,6,2,FILDA kwamboka,716389805,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.303558,36.0639151,Stephen kibosi,71370114,Rental Property,Flush toilet linked to the condominium sewer,30,9,Jecinta Wanjiku,705744928,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3035127,36.048061,Shadrack,11400722,Rental Property,Flush toilet linked to a septic tank,21,6,Agnes makori,710183928,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3034733,36.048203,Vivian otieno,797109716,Rental Property,Flush toilet linked to a septic tank tank,32,17,FILDA kwamboka,716389805,December,Approved
+Nakuru,N.W.,Kaptembwa,-0.3033408,36.0399379,Susan koech,720484797,Rental Property,Septic,38,30,FILDA kwamboka,716383805,September,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3032836,36.0610388,James maina,725301137,Rental Property,Flush toilet linked to main sewer,32,8,Stella wangui,746383322,December,Approved
+Nakuru,N.W.,Kaptembwa,-0.3032476,36.0526252,Simon Ngeche,724300792,Rental Property,Septic,32,6,Agnes makori,710183928,September,Approved
+Nakuru,N.W,Kapkures,-0.3031521,36.025155,Mogoon primary,722357360,School,Septic,500,20,Jacob Kigen,722997818,November,Approved
+Nakuru,Nakuru Town East,Flamingo,-0.3031138,36.0794674,Chief officer,720460635,Other,Flush toilet linked to main sewer,216,,Ann achola,722440534,December,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.3029855,36.0626247,Wambui,770742005,Rental Property,Flush toilet linked to the condominium sewer,32,16,Jecinta Wanjiku,705744928,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3029849,36.0497246,David mita,725300638,Rental Property,Septic,11,6,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Kaptembwa,-0.30297,36.0405,Rose mokeira,720363393,Household,VISP,5,,FILDA kwamboka,716389805,August,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3028862,36.0477663,Constant Bwire,710447311,Household,Flush toilet linked to a septic tank,6,3,Agnes makori,710183928,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3027748,36.0492348,Joseph kegwaro,721781493,Rental Property,Flush toilet linked to a bio-digester,32,4,Agnes makori,710183928,October,Approved
+Nakuru,N.W,Kapkures,-0.3026207,36.0312048,Peter Sumukwo,723871949,Rental Property,Flush toilet linked to a septic tank,16,4,Jacob Kigen,722997818,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3025971,36.0566339,Kiara,722369034,Rental Property,Flush toilet linked to a septic tank,1,1,FILDA kwamboka,716389805,October,Approved
+Nakuru,N.W.,Kaptembwa,-0.3024755,36.0495577,William Akanda,72577939,Household,VISP,22,3,Agnes makori,710183928,September,Approved
+Nakuru,N.W,Kaptembwa,-0.3024171,36.0527361,Wilson Abongo,720536245,Rental Property,Flush toilet linked to a septic tank,8,8,Agnes makori,710183928,October,Approved
+Nakuru,N.W.,Kaptembwa,-0.3023476,36.0527409,Onyango,774543941,Rental Property,Septic,8,8,Agnes makori,710183928,September,Approved
+Nakuru,N.W.,Kaptembwa,-0.3022694,36.0487133,Moses mbugua,727415049,Rental Property,Septic,14,5,Agnes makori,710183928,September,Approved
+Nakuru,Nakuru Town West,Kaptembwo,-0.302233,36.0448,Sabella Moraa,706007989,Rental Property,Flush toilet linked to a double leach pit,10,2,FILDA kwamboka,773893776,June,Approved
+Nakuru,N.W,Kapkures,-0.3021852,36.0288625,John Mosau,716387008,Rental Property,Septic,46,19,Gilbert Bwire,719307016,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3021423,36.0406426,Richard Onderi,726928875,Rental Property,Flush toilet linked to a double leach pit,32,6,FILDA Kwamboka,773893776,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3021392,36.0403104,Charles Makau,720674684,Rental Property,Flush toilet linked to a septic tank,70,19,Jacob Kigen,722997818,October,Approved
+Nakuru,Nakuru Town West,Kaptembwo,-0.302119,36.0407,Richard Onderi,726928875,Rental Property,Flush toilet linked to a single leach pit,30,6,FILDA Kwamboka,773893776,June,Approved
+Nakuru,N.W,Kaptembwa,-0.3021118,36.0422065,Edwin makori,725841051,Rental Property,Flush toilet linked to a septic tank,7,7,FILDA kwamboka,716389805,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.302098,36.0401,Wilfred mokaya,734571301,Rental Property,Flush toilet linked to a single leach pit,8,6,FILDA kwamboka,773893776,June,Approved
+Nakuru,N.W,Kapkures,-0.3020286,36.0215873,Alice wangeci,723693551,Household,VISP,4,2,Emily sang,729002038,October,Approved
+Nakuru,N.W,Kapkures,-0.3019954,36.0159117,Linnah Tanui,714999050,Rental Property,VISP,15,3,Emily Sang,729002038,October,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.3019858,36.0824611,Nancy,702599947,Household,Flush toilet linked to main sewer,3,1,Daisy kalunde,724756699,December,Approved
+Nakuru,N.W.,Kaptembwa,-0.3018864,36.051913,John Ngugi mwaura,701597337,Rental Property,Septic,24,38,Agnes makori,710183928,September,Approved
+Nakuru,N.W,Kaptembwa,-0.3016361,36.0599307,FREDRICK NJENGA,720596292,Rental Property,Flush toilet linked to a septic tank,200,12,Mary Njeri,700701626,October,Approved
+Nakuru,Nakuru Town East,Kiamurogi,-0.30126,36.1289,Dominic njoroge,7,Household,Flush toilet linked to the condominium sewer,10,2,Ken macharia,799088807,June,Approved
+Nakuru,Nakuru Town East,Kiamurogi,-0.301138,36.1285,Veronica njoki,719624680,Household,Flush toilet linked to the condominium sewer,30,2,Ken macharia,799088807,June,Approved
+Nakuru,N.W,Kaptembwa,-0.3009643,36.0587159,HENRY CHESARO,722611969,Rental Property,VISP,150,6,MARY NJERI,700701626,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3008578,36.0502063,Horam gachua,705111246,Rental Property,Septic,32,4,Agnes makori,710183928,November,Approved
+Nakuru,N.W,Rhoda,-0.3007006,36.06529,Francis mwai,72553396,Rental Property,Flush toilet linked to the condominium sewer,2,2,FILDA kwamboka,716389805,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3005826,36.0596014,Jelangat,708724644,Rental Property,Septic,7,7,FILDA kwamboka,716389805,November,Approved
+Nakuru,N.W,Rhoda,-0.3005818,36.0596328,Chera,720,Rental Property,Flush toilet linked to a septic tank,7,7,FILDA,716,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3004123,36.0452611,Julia Nyakundi,729380358,Household,Flush toilet linked to a septic tank,6,3,FILDA kwamboka,716389805,October,Approved
+Nakuru,N.W,Rhoda,-0.3003811,36.0597518,Moses Gathia,712104985,Rental Property,Flush toilet linked to a septic tank,5,5,FILDA kwamboka,716389805,October,Approved
+Nakuru,N.W,Kaptembwa,-0.3003708,36.0593479,Nyaga,722728957,Rental Property,Septic,27,27,FILDA kwamboka,716389805,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3002954,36.0591724,Dick Nyaga,722728957,Rental Property,Rehabilitation,80,2,Mary Njeri,70070162,October,Approved
+Nakuru,Nakuru Town East,Biashara,-0.3002739,36.0653629,Zachariah muhia,728754160,Rental Property,Flush toilet linked to the condominium sewer,12,4,Peter ndoho,719890601,December,Approved
+Nakuru,N.W,Kapkures,-0.300176,36.0202128,Mr Charles Orina,726293847,Household,Flush toilet linked to a septic tank,5,5,Emily C Sang,729002038,October,Approved
+Nakuru,Nakuru Town East,Kiamurogi,-0.300171,36.1261,Zablon wakeronye,71264384,Household,Flush toilet linked to the condominium sewer,20,4,Ken macharia,799088807,June,Approved
+Nakuru,N.W,Kaptembwa,-0.300153,36.0440106,Ezekiel omboti,728895363,Rental Property,Flush toilet linked to a septic tank,1,1,FILDA kwamboka,716389805,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.3001345,36.0500311,Lonah Hosea,723135970,Rental Property,Flush toilet linked to a septic tank,38,1,Agnes makori,710183928,December,Approved
+Nakuru,N.W,Kaptembwa,-0.3001109,36.0591146,Patrick Nduati,724755744,Rental Property,Flush toilet linked to a septic tank,150,6,Mary njeri,70070162,October,Approved
+Nakuru,Nakuru Town East,Kiamurogi,-0.300109,36.1277,Daniel kahero,7,Rental Property,Flush toilet linked to the condominium sewer,35,4,Ken macharia,799088807,June,Approved
+Nakuru,N.W,Kapkures,-0.3000667,36.02072,James chelule,722868819,Rental Property,Septic,15,7,Emily c sang,729002038,November,Approved
+Nakuru,N.W,Kapkures,-0.3000326,36.0206735,Chelule james,722868819,Rental Property,VISP,15,2,Emily c sang,729002038,November,Approved
+Nakuru,N.W,Kaptembwa,-0.3000106,36.0439109,Omboti Ezekiel B,728895363,Rental Property,Flush toilet linked to a bio-digester,20,1,FILDA kwamboka,716389805,October,Approved
+Nakuru,Nakuru Town East,Kiamurogi,-0.299996,36.1288,James kihiu,758942741,Household,Flush toilet linked to the condominium sewer,10,1,Ken macharia,799088807,June,Approved
+Nakuru,N.E,Menengai,-0.299672,36.1406419,Joseph kigo,733420090,Other,Flush toilet linked to a septic tank,90,30,Sarah Gitua,720478578,October,Approved
+Nakuru,N.W,Kapkures,-0.2996526,36.0187087,Paul onyango,723673320,Household,Flush toilet linked to a bio-digester,6,4,Emily sang,729002038,October,Approved
+Nakuru,N.E,Biashara,-0.2994384,36.0658724,Wangeshi kamau,76932737,Household,Main Sewer,75,8,Wanjiku C.Wanguii,792498473,November,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.2994254,36.0647173,John muhiaini,708660955,Rental Property,Flush toilet linked to main sewer,46,14,Stella wangui,746383322,December,Approved
+Nakuru,N.W,Kaptembwa,-0.2993239,36.0498846,Cheburet,714238532,Rental Property,Flush toilet linked to a septic tank,17,10,Agnes makori,710183928,October,Approved
+Nakuru,N.W.,Kapkures,-0.2992335,36.0181134,Sammy,722441755,Household,Biodigester,30,6,Emily C Sang,729002038,September,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.299175,36.0412,David meso,713611359,Rental Property,Flush toilet linked to a septic tank tank,-45,18,FILDA kwamboka,773893776,June,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.2991509,36.0612746,Sarah njeri,788505031,Rental Property,Flush toilet linked to the condominium sewer,32,,Stella wangui,746383322,December,Approved
+Nakuru,Nakuru Town West,Mogoon,-0.29871,36.0194,Grace Ngota,72585530,Household,Flush toilet linked to a septic tank tank,3,2,Emily sang,72900203,June,Approved
+Nakuru,N.E,Menengai,-0.2986098,36.1411566,C.k. Wanderi,111591347,Rental Property,Flush toilet linked to a double leach pit,23,6,George Kamau,791329981,October,Approved
+Nakuru,N.E,,-0.2985641,36.091538,Peterson mutonga,706777438,Rental Property,Septic,18,6,Boaz Okoth,717462441,November,Approved
+Nakuru,N.W,Kaptembwa,-0.2985416,36.0467381,Maina,720708783,Rental Property,Flush toilet linked to a septic tank,40,1,FILDA kwamboka,716389805,October,Approved
+Nakuru,Nakuru Town East,Kivumbini,-0.298395,36.0837483,County government,712881770,Rental Property,Flush toilet linked to main sewer,54,13,Mary brenda kadima,725141492,December,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.2983426,36.0637127,Bernard waweru,720680312,Rental Property,Flush toilet linked to main sewer,27,9,Lucy Wanjiku Shabab,724551254,December,Approved
+Nakuru,Nakuru Town West,Rhoda,-0.2982283,36.0633367,Peter mwangi,702456043,Rental Property,Flush toilet linked to main sewer,83,32,Patrick mwangi,718600133,December,Approved
+Nakuru,N.E,Menengai,-0.2981589,36.1383135,Kimiri,725694361,Other,Flush toilet linked to a septic tank,16,4,Sarah Gitua,720478578,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.297918,36.0435,Josphat kebenei,726749851,Rental Property,Flush toilet linked to a septic tank tank,12,12,FILDA kwamboka,773893776,June,Approved
+Nakuru,N.E,Menengai,-0.2978664,36.1390164,Joseph Murimi,707071007,Rental Property,Flush toilet linked to a septic tank,30,10,George Kamau,791329981,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.2977274,36.0436044,Steven shining star,720847590,Rental Property,Flush toilet linked to a septic tank,12,12,Clementina Obinda Ojwang,703939197,December,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.297673,36.0408,Henry Nyamweya,725646934,School,Flush toilet linked to a double leach pit,189,8,Filda Kwamboka,773893776,June,Approved
+Nakuru,Nakuru Town West,Kaptemwa,-0.297566,36.0437,George main a Gathu,725553684,Rental Property,Flush toilet linked to a septic tank tank,18,3,FILDA kwamboka,773893776,June,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.29754,36.0433569,Julia's waitage,721821306,Rental Property,Flush toilet linked to a septic tank,21,6,Clementina Obinda Ojwang,703939197,December,Approved
+Nakuru,N.E,Nakuru East,-0.2972102,36.1237813,Michael Muchiri,781378902,Rental Property,Main Sewer,30,10,Esther kairu,740288790,November,Approved
+Nakuru,N.E,,-0.2971433,36.0907033,Grace,722388442,Rental Property,Septic,24,8,Boaz Okoth,717462441,November,Approved
+Nakuru,N.E,Biashara,-0.2969331,36.069529,Deliverance church,78055447,Other,Main Sewer,10,10,Wanjiku c.wangui,792498473,November,Approved
+Nakuru,N.W,Kaptembwa,-0.29679,36.0451,Francis koskei,720106836,Rental Property,Septic,24,,FILDA kwamboka,716389805,August,Approved
+Nakuru,N.E,Biashara,-0.2964632,36.0909273,Marion Njeri,737200790,Household,Septic,24,9,Mary Wekhulo,727991135,November,Approved
+Nakuru,N.E,Nakuru East,-0.2962835,36.1218214,Njuguna,0,Rental Property,Flush toilet linked to main sewer,25,4,Douglas Makori,726320447,October,Approved
+Nakuru,N.W,Kaptembwa,-0.2961245,36.047227,Beatrice Tesot,722281757,Other,VISP,1,1,FILDA kwamboka,716389805,November,Approved
+Nakuru,N.W.,Kaptemwa,-0.296042,36.0442,Evans magaki,722761074,Rental Property,Septic,15,5,FILDA kwamboka,716389805,July,Approved
+Nakuru,N.W,Kaptembwa,-0.296027,36.0442,Magaki,722761074,Rental Property,Septic,15,,FILDA kwamboka,716389805,August,Approved
+Nakuru,N.W,Kaptembwa,-0.2959716,36.0540675,Ann kamau,725927500,Household,Flush toilet linked to the condominium sewer,5,4,FILDA kwamboka,716389805,October,Approved
+Nakuru,N.W.,Kaptembwa,-0.2959598,36.046093,Patrick kimani,742262457,Rental Property,Septic,43,3,Agnes makori,710183928,September,Approved
+Nakuru,N.E,Menengai,-0.2957547,36.1306894,Mr were,721403161,Other,Flush toilet linked to main sewer,100,32,Sarah Gitua,720478578,October,Approved
+Nakuru,N.W,Kaptembwa,-0.2957502,36.0525148,Alexandra Barno,728049007,Rental Property,Rehabilitation,20,5,FILDA kwamboka,716389805,October,Approved
+Nakuru,N.W.,Kaptembwa,-0.2956719,36.0482168,Wilson r0tich,72631504,Rental Property,Septic,48,4,Agnes makori,710183928,September,Approved
+Nakuru,N.E,Biashara,-0.2955148,36.0805526,Flamingo secondary,720700196,School,Main Sewer,600,16,Wakesho agnes,726558341,November,Approved
+Nakuru,N.W,Kaptembwa,-0.2954893,36.0459967,Margaret wambugu,720551032,Household,VISP,6,2,FILDA kwamboka,716389805,November,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.2954163,36.0452301,Kefa momannyi,728857637,Rental Property,Flush toilet linked to a septic tank tank,8,1,FILDA kwamboka,716389805,December,Approved
+Nakuru,N.W.,Kaptembwa,-0.295361,36.0478,David sang,707736977,Rental Property,Septic,28,15,FILDA kwamboka,716389805,July,Approved
+Nakuru,N.W.,Shabab,-0.2953369,36.0603237,Happy church,748369233,Other,Sewer,250,10,Gladys Kamau Wanjiku,716208946,September,Approved
+Nakuru,N.W,Shabab,-0.2953088,36.0515582,Daniel kamau,791945740,Rental Property,Main Sewer,35,12,Regina Mwaura,721209432,November,Approved
+Nakuru,N.E,Nakuru East,-0.295213,36.1220284,Free pentecost,726320447,Other,Flush toilet linked to main sewer,56,3,Douglas Makori,726320447,October,Approved
+Nakuru,N.E,Biashara,-0.2951062,36.0921878,Anastasia wanjiku,746356263,Household,Rehabilitation,35,11,Caroline Barasa,727696429,November,Approved
+Nakuru,N.E,Nakuru East,-0.2950365,36.1187543,Mary njeri,757693482,Rental Property,Flush toilet linked to a septic tank,30,10,Samuel chege,704928932,October,Approved
+Nakuru,N.W,Shabab,-0.2949075,36.0519869,Zipporah Njoki,737762151,Rental Property,Rehabilitation,28,7,Regina Mwaura,721209432,November,Approved
+Nakuru,N.W,Shabab,-0.294842,36.0587,Rebecca miyuga,714304642,Household,Leach pit,2,,Hellen minayo,724615080,August,Approved
+Nakuru,N.E,Nakuru East,-0.2947933,36.1194411,Ann wambui,713266796,Rental Property,Flush toilet linked to main sewer,50,15,Samuel chege,704928932,October,Approved
+Nakuru,N.W.,Shabab,-0.2943673,36.052248,Elijah Langat,777932836,Household,Sewer,12,1,Regina Mwaura,721209432,September,Approved
+Nakuru,N.E,Biashara,-0.2942338,36.0927517,Wilson mutuku,727810295,Household,Septic,36,6,Mary Wekhulo,727991135,November,Approved
+Nakuru,N.E,Biashara,-0.2942278,36.0925115,Jennifer moraya,724863410,Household,Septic,27,7,Mary Wekhulo,727991135,November,Approved
+Nakuru,N.E,Biashara,-0.2942167,36.0894128,Jennnifer waithera,71444230,Rental Property,Flush toilet linked to a septic tank,35,6,Moses Ngugi,724264741,October,Approved
+Nakuru,N.E,Biashara,-0.2941333,36.0917785,Stephen Karanja,722538719,Household,Septic,37,9,Caroline Baraza,707696429,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.2940746,36.1203039,Ephraim Githinji,723482188,Rental Property,Flush toilet linked to a septic tank,30,12,George Kamau,791329981,December,Approved
+Nakuru,N.W,Shabab,-0.2939997,36.05931,Joseph Mwangi,722853285,Other,Rehabilitation,20,2,Zeddy Rotich,725179176,November,Approved
+Nakuru,N.E,Nakuru East,-0.2937752,36.1207497,Damaris waithera,780960453,Household,Condominium sewer,25,4,Wanjiku C.Wangui,792498473,November,Approved
+Nakuru,N.W,Shabab,-0.2937056,36.0476989,Mary wanjiku kihara,724928029,Rental Property,Main Sewer,48,3,Zeddy Rotich,25179176,November,Approved
+Nakuru,N.E,Biashara,-0.2936628,36.0951265,John kamau,740816818,Household,Septic,30,7,Caroline Baraza,707696429,November,Approved
+Nakuru,N.E.,,-0.2936459,36.0856159,Ahmed mahamud ,774997032,Household,Sewer,9,4,Salma Ismael,722915079,September,Approved
+Nakuru,N.E.,,-0.2935277,36.0856391,Zhahara Warsame,72369888,Household,Sewer,4,2,Lynette Famba,713614005,September ,Approved
+Nakuru,N.W,Kaptembwa,-0.2935059,36.0437557,Francis koskei,720106836,Rental Property,VISP,12,3,Filda kwamboka,716389805,October,Approved
+Nakuru,N.W,Kaptembwa,-0.293503,36.044346,Rono kosgeì,720106836,Rental Property,Flush toilet linked to a septic tank,24,6,FILDA kwamboka,716389805,October,Approved
+Nakuru,N.W,Kaptembwa,-0.2934655,36.0422621,Alice m osoro,712310577,Rental Property,Flush toilet linked to a septic tank,32,16,FILDA kwamboka,716389805,October,Approved
+Nakuru,N.E,Biashara,-0.2932871,36.0964317,Suleiman njoroge,701891677,Household,Septic,24,6,Caroline Baraza,707696429,November,Approved
+Nakuru,N.E,Biashara,-0.2932266,36.0958343,Angela Munini,721665432,Household,Septic,18,4,Mary Wekhulo,727991135,November,Approved
+Nakuru,N.E,Nakuru East,-0.293151,36.1204573,Mwai,757972385,Rental Property,Condominium sewer,70,4,George Kamau,791329981,November,Approved
+Nakuru,Nakuru Town West,Shabab,-0.293138,36.0529462,Abundant life,724516544,Other,Rehabilitation,200,,Jane Kabingo,708321145,December,Approved
+Nakuru,N.E,Biashara,-0.293033,36.0967,Hussein Dhiri,722372298,Rental Property,Flush toilet linked to a septic tank,30,10,Mary wekulo,727991135,October,Approved
+Nakuru,N.E,Nakuru East,-0.2929983,36.1201667,Free market,101614626,Market Place,Flush toilet linked to main sewer,500,8,Gilbert cherutoi,722614626,October,Approved
+Nakuru,N.E,Biashara,-0.2929313,36.0937877,Edith kamono,723041951,Household,Flush toilet linked to main sewer,6,1,Caroline baraza,707696429,October,Approved
+Nakuru,N.E,Biashara,-0.2929056,36.0962107,Ali issa,72632834,Rental Property,Flush toilet linked to a septic tank,38,10,Mary wekulo,727991135,October,Approved
+Nakuru,N.E,,-0.2928549,36.0949944,Michael Mwangi,722341668,Rental Property,Flush toilet linked to a septic tank,48,16,Caroline Baraza,707696429,October,Approved
+Nakuru,N.E,Biashara,-0.2928031,36.0782494,Jacinta Randa,720869517,Other,VISP,210,16,Mary brenda kadima,725141492,November,Approved
+Nakuru,N.E,Biashara,-0.292799,36.08985,Jennifer waithera,717444230,Rental Property,VISP,32,6,Moses ngugi,724264741,October,Approved
+Nakuru,N.W,Shabab,-0.2926144,36.0476191,Stephen migo ,733208866,Rental Property,Main Sewer,56,12,Zeddy Rotich,725179176,November,Approved
+Nakuru,N.E,Nakuru East,-0.2925565,36.1180139,Gladys togoch,721584406,Other,Septic,500,3,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.2925404,36.1499493,Millecent chebet,769021815,School,Septic,80,4,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town East,Biashara,-0.2921671,36.0972899,Benson mureu,726569198,Rental Property,Flush toilet linked to a septic tank,26,12,Caroline Baraza,707696429,December,Approved
+Nakuru,Nakuru Town East,Biashara,-0.2920245,36.0938033,Joseph kiragu,723159496,Household,Flush toilet linked to a septic tank,6,3,Mary wekhulo,727991135,December,Approved
+Nakuru,N.W,Shabab,-0.2917026,36.0435717,Caroline mokeira,729556488,Household,Condominium sewer,20,13,Dorcas wachuka,724281269,November,Approved
+Nakuru,N.W,Shabab,-0.2916812,36.0428755,Njeri Maina,723589308,Rental Property,Main Sewer,48,4,Jane Kabingo,708321145,November,Approved
+Nakuru,N.W,Shabab,-0.2916686,36.0435346,Meshack maina,720241180,Household,Condominium sewer,15,4,Dorcas wachuka,724281269,November,Approved
+Nakuru,N.W.,Kaptemwa,-0.291652,36.0435,Carolyne Mokeira,729556488,Rental Property,Sewer,26,7,FILDA kwamboka,716389805,July,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2916176,36.042801,Daniel chebet,726943986,Rental Property,Flush toilet linked to main sewer,18,5,Jane kabingo,708321145,December,Approved
+Nakuru,N.W,Shabab,-0.2912495,36.0565419,PCEA shabab,729277089,Rental Property,Main Sewer,100,4,Zeddy Rotich,725179176,November,Approved
+Nakuru,N.E,Menengai,-0.291242,36.1488595,John,722946461,Rental Property,Flush toilet linked to a septic tank,40,10,Samuel chege,704928932,October,Approved
+Nakuru,Nakuru Town East,Biashara,-0.2911476,36.0950952,Andrew kimani,716712470,Rental Property,Flush toilet linked to a septic tank,36,,Caroline baraza,707969429,December,Approved
+Nakuru,N.W,London,-0.2911236,36.0563661,Ochieng,703673920,Household,VISP,6,3,Ochieng,703673920,November,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2909858,36.0553293,Joseph,727852369,Market Place,Flush toilet linked to main sewer,18,3,Regina Mwaura,721209432,December,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2909466,36.0552928,Auto express,724253533,Market Place,Rehabilitation,35,5,Regina Mwaura,721209432,December,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2905616,36.0431066,Moses raban,721682729,Rental Property,Flush toilet linked to main sewer,28,,Dorcas wacuku,724281269,December,Approved
+Nakuru,N.E.,Baharini,-0.290456,36.0812,Bondeni dispensary,722956661,Health Facility,Sewer,20,4,Charles 0piyo,729586778,July,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2904378,36.0435224,Edna onserio,79125481,Rental Property,Flush toilet linked to main sewer,26,2,Dorcas wachuka,72428126,December,Approved
+Nakuru,N.W,Shabab,-0.2899916,36.0548087,Auto industries ltd,740021178,Rental Property,Main Sewer,15,6,Regina Mwaura,721209432,November,Approved
+Nakuru,N.W,Shabab,-0.2898708,36.055336,Kingsway tyre limited,733699502,Other,Main Sewer,9,2,Regina Mwaura,721209432,November,Approved
+Nakuru,N.W.,Shabab,-0.2895351,36.0440561,Joseph Magonga,722276032,Household,Sewer,24,4,Nancy Mokeira,728411167,September,Approved
+Nakuru,N.E.,,-0.2894678,36.0908693,Yusuf Faraj,733596661,Household,Sewer,4,1,Rose Ogida,729808601,September ,Approved
+Nakuru,N.E,Nakuru East,-0.288953,36.1234016,Ronald kipkemoi,717609062,Other,Septic,400,10,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town West,Kamptemwa,-0.28892,36.0425,Ongeri kenyanya,797931796,Rental Property,Flush toilet linked to a double leach pit,75,8,FILDA kwamboka,773893776,June,Approved
+Nakuru,N.E,Menengai,-0.2888114,36.1480431,John Ngugi,722967317,Rental Property,Flush toilet linked to a septic tank,40,10,George Kamau,791329981,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.288762,36.0419,Francis kebaso,725596189,Rental Property,Flush toilet linked to a double leach pit,15,5,FILDA Kwamboka,773893776,June,Approved
+Nakuru,Nakuru Town West,Shabab,-0.288748,36.0419571,Sarah waithera,703906467,Rental Property,Flush toilet linked to main sewer,24,8,Dorcas wacuka,724281269,December,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2886967,36.041635,Patricia munene,703327733,Rental Property,Flush toilet linked to main sewer,30,,Jane kabingo,708321145,December,Approved
+Nakuru,N.W.,Kaptembwa,-0.28867,36.0421,Rebecca Moire,703912128,Household,Septic,13,13,FILDA KWAMBOKA,716389805,July,Approved
+Nakuru,N.W.,Mogoon,-0.288536,36.0256,George,731003535,Household,Septic,10,3,Emily Sang,729002038,July,Approved
+Nakuru,N.W.,Mogoon,-0.288536,36.0256,Edwin,720666167,Household,Septic,8,4,Emily Sang,729002038,July,Approved
+Nakuru,N.E,Nakuru East,-0.2881182,36.1230473,Purity nyanguthii,726106362,Household,VIDP,15,4,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Menengai,-0.2880263,36.1220132,Jane wanjiru,713394146,Rental Property,Flush toilet linked to main sewer,60,17,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Nakuru East,-0.2880148,36.1244895,Alice njeri,724254197,Other,VISP,20,1,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.287866,36.042,Joseph Ngatia,722474785,Rental Property,Flush toilet linked to a double leach pit,30,10,FILDA kwamboka,773893776,June,Approved
+Nakuru,N.E,Menengai,-0.2878533,36.1478779,Vivian Moraa,761720893,Rental Property,Flush toilet linked to a double leach pit,45,10,George Kamau,791329981,October,Approved
+Nakuru,N.W.,Kaptembwa,-0.2877775,36.0418195,Evans,722138324,Rental Property,Septic,22,11,FILDA kwamboka,716389805,September,Approved
+Nakuru,N.W.,Kaptembwa,-0.287594,36.0419,Lucy Mboya,716807479,Household,Septic,12,4,Filda Kwamboka,716389805,July,Approved
+Nakuru,N.E,Menengai,-0.2874803,36.1486925,Ann,713266796,Rental Property,Flush toilet linked to a septic tank,45,10,Samuel chege,704928932,October,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2874735,36.0419873,Moses mwangi,716807479,Rental Property,Flush toilet linked to main sewer,35,5,Dorcas wacuka,724281269,December,Approved
+Nakuru,N.E,Menengai,-0.2871651,36.1475424,Beatrice kabithi,703747340,Rental Property,Flush toilet linked to a double leach pit,30,10,George Kamau,791329981,October,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2869265,36.0418828,Emmanuel gandago,708656442,Rental Property,Flush toilet linked to main sewer,16,3,Dorcas wacuka,724281269,December,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2869227,36.0419702,Mary wairimu,720377242,Rental Property,Flush toilet linked to main sewer,15,3,Dorcas wacuka,724281269,December,Approved
+Nakuru,Nakuru Town West,Shabab,-0.2869036,36.0421236,Edith njoki,722837590,Rental Property,Flush toilet linked to main sewer,10,3,Jane kabingo,708321145,December,Approved
+Nakuru,N.E,Menengai,-0.286565,36.122611,George Mwangi,72676294,Rental Property,Flush toilet linked to a double leach pit,60,18,George Kamau,791329981,October,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.286522,36.0414,Paul Gakua Roege,723853154,Rental Property,Flush toilet linked to a septic tank tank,45,15,FILDA kwamboka,773893776,June,Approved
+Nakuru,N.E,Biashara,-0.2863655,36.126045,Matthew Githinji,786107330,Rental Property,Septic,40,14,Esther kairu,740280799,November,Approved
+Nakuru,Nakuru Town West,Kaptembwa,-0.286349,36.0423,Francis Kebaso,725596189,Rental Property,Flush toilet linked to a double leach pit,20,10,FILDA Kwamboka,773893776,June,Approved
+Nakuru,N.E,Nakuru East,-0.2856309,36.1236645,Samwel migosi,72225264,School,VISP,160,5,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.2854556,36.1241284,Wamaitha julia,726737701,Household,VISP,4,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.2852542,36.1239906,Wamaitha martha,726737701,Household,VISP,3,1,Emma wairimu,701087462,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.285168,36.1044466,Nyambura Rachael,725550836,Household,Flush toilet linked to a septic tank,15,5,Daisy kalunde,724756699,December,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.2842407,36.1236465,John,736738966,Rental Property,Flush toilet linked to a septic tank,50,12,Samuel chege,704928932,December,Approved
+Nakuru,N.E,Nakuru East,-0.2841509,36.1251139,Stephen kibiru,113001598,Rental Property,Flush toilet linked to a septic tank,50,12,Samuel chege,704928932,October,Approved
+Nakuru,N.W,London,-0.2839572,36.0433075,Ali,713700957,Other,Flush toilet linked to a septic tank,100,7,FILDA kwamboka,716389805,October,Approved
+Nakuru,N.E,Nakuru East,-0.283883,36.1265103,David,723838004,Rental Property,Septic,60,15,Samuel chege,704928932,November,Approved
+Nakuru,N.E,Menengai,-0.283878,36.1281105,Peter kaburi,724152963,Rental Property,Flush toilet linked to a septic tank,40,10,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Menengai,-0.2838206,36.1266692,Joseph Njue,721709527,Rental Property,Septic,40,15,Esther kairu,740260799,November,Approved
+Nakuru,N.E,Nakuru East,-0.2837771,36.1254394,Ibrahim,724247189,Rental Property,Flush toilet linked to a single leach pit,30,10,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Menengai,-0.2833453,36.126621,Joakim munyua,724155966,Rental Property,Flush toilet linked to a septic tank,35,10,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Menengai,-0.2831197,36.1237678,Dennis Kihoro,705595112,Rental Property,Flush toilet linked to a single leach pit,40,10,George Kamau,791329981,October,Approved
+Nakuru,N.E,Menengai,-0.2830991,36.1008705,Ibrahim Botto,722602561,Other,Main Sewer,100,18,Sarah Gitua,720478578,November,Approved
+Nakuru,N.E,Nakuru East,-0.2828078,36.1267343,Mr.kamau,773250455,Rental Property,Flush toilet linked to a septic tank,40,9,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Menengai,-0.2827167,36.1259068,Dennis Mwangi,723268400,Rental Property,Flush toilet linked to a septic tank,45,15,George Kamau,791329981,October,Approved
+Nakuru,N.E,Menengai,-0.2823697,36.125103,Cyrus Njoroge,79090861,Rental Property,Flush toilet linked to a septic tank,30,10,George Kamau,791329981,October,Approved
+Nakuru,N.E,Nakuru East,-0.2823058,36.124961,Grace,701295495,Rental Property,Flush toilet linked to a septic tank,40,10,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Menengai,-0.2820693,36.1624569,David kinyua,721791540,Rental Property,Septic,25,6,George Kamau,791329981,November,Approved
+Nakuru,N.E.,Mjini,-0.281992,36.0745,Albert kisiga,721986613,Market Place,Sewer,40,10,Mary Brenda,725141492,July,Approved
+Nakuru,N.E,Menengai,-0.2819655,36.1237289,Joseph Mbugua,711669579,Rental Property,Flush toilet linked to a septic tank,40,10,George Kamau,791329981,October,Approved
+Nakuru,N.E,Nakuru East,-0.2819261,36.1271304,Francis njunguna,720470646,Household,VISP,5,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Menengai,-0.281628,36.1238595,Bonny kamau,721326300,Rental Property,Flush toilet linked to a single leach pit,20,8,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Menengai,-0.2814192,36.1241374,Nemuel Osore,721790572,Rental Property,Flush toilet linked to a septic tank,40,12,George Kamau,791329981,October,Approved
+Nakuru,N.E,Nakuru East,-0.2813378,36.1241054,Gladys Nyambura,726106363,Household,VIDP,5,5,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.2809875,36.1295231,Michael,727729153,Rental Property,Septic,40,9,Samuel chege,704928932,November,Approved
+Nakuru,N.E,Nakuru East,-0.2807907,36.1231287,Nahashon mwangi,702792290,Other,Bio-digester,50,4,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Menengai,-0.2803538,36.1633049,Michael,727729153,Rental Property,Bio-digester,55,11,Samuel chege,704928932,November,Approved
+Nakuru,N.W,London,-0.2802112,36.0554039,Peter karogu,723560373,Other,S. Leach pit,2,1,Leah wangari,729755218,November,Approved
+Nakuru,N.E,Menengai,-0.2800024,36.1430264,Brian Kamau,704146167,Rental Property,Septic,30,10,George Kamau,791329981,November,Approved
+Nakuru,N.E,Nakuru East,-0.2797382,36.128605,Dennis delima,790211818,Rental Property,Flush toilet linked to a septic tank,40,12,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Nakuru East,-0.2797301,36.1263781,Tabitha wangare,10143628,Household,VISP,9,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Menengai,-0.2797187,36.1252586,Tabitha Wanjiku,726558539,Rental Property,Flush toilet linked to a single leach pit,40,10,George Kamau,791329981,October,Approved
+Nakuru,N.E,Menengai,-0.2796507,36.1282773,Rachel Mwangi,703700312,Rental Property,Flush toilet linked to a single leach pit,20,10,George Kamau,791329981,October,Approved
+Nakuru,N.E,Menengai,-0.2796458,36.1245478,Ian kiprop,791890858,Rental Property,Flush toilet linked to a single leach pit,35,8,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Nakuru East,-0.2796414,36.1268637,Moses kariuki,759879810,Rental Property,Flush toilet linked to a septic tank,40,12,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Menengai,-0.2795758,36.1286884,Derrick Njuguna,78187649,Rental Property,Flush toilet linked to a septic tank,20,8,George Kamau,791329981,October,Approved
+Nakuru,N.E,Menengai,-0.2795524,36.1290667,Margaret matuu,721265110,Household,Septic,6,2,Francis kingori,721729810,November,Approved
+Nakuru,N.E,Nakuru East,-0.2794918,36.1298763,Purity ngatia,726106362,Household,VISP,3,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.2794449,36.1254384,Joseph,74210351,Rental Property,Flush toilet linked to a septic tank,40,12,Samuel chege,704928932,October,Approved
+Nakuru,N.W,London,-0.2792773,36.0690124,Haron Mwangi,723420734,Other,Flush toilet linked to a septic tank,50,5,Eddy Nandi,795775680,October,Approved
+Nakuru,Rongai,Mosop,-0.2792508,36.0037518,Antony,768636988,Rental Property,VISP,12,2,Vincent kipkurui,794816910,December ,Approved
+Nakuru,N.E,Nakuru East,-0.2791457,36.1251227,Faith Nyambura,721584406,Household,VIDP,12,6,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Nakuru East,-0.2790903,36.1290727,Samson maina,705289344,Rental Property,Flush toilet linked to a septic tank,40,8,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Menengai,-0.279061,36.1121127,James,759456038,Rental Property,Flush toilet linked to a septic tank,50,14,Samuel chege,704928932,October,Approved
+Nakuru,Rongai,Mosop,-0.27905105,36.00239515,Mokaka,713852369,Rental Property,VISP,20,8,Kipkoech Patrick,743273093,December,Approved
+Nakuru,N.E.,Menengai,-0.2787169,36.1287254,Zablon Gichihi,722689268,Rental Property,Septic,25,11,Metrine kutoto,717868840,September,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.2785944,36.142806,Susan,712697420,Rental Property,Flush toilet linked to a septic tank,50,11,Samuel chege,704928932,December,Approved
+Nakuru,Rongai,Mosop,-0.2783994,35.9971044,Koech,722262998,Household,VISP,9,2,Sophia koech,790551191,November,Approved
+Nakuru,N.E,Nakuru East,-0.2783489,36.1288139,Beatrice wairimu,706210153,Household,VISP,4,1,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,Menengai,-0.2783485,36.1264474,Alice Nduta,71886280,Rental Property,Flush toilet linked to a septic tank,25,10,George Kamau,791329981,October,Approved
+Nakuru,Rongai,Menengai West,-0.2783477,35.9909394,Mary masil,7.00E+08,Household,VISP,6,1,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.2780678,36.1325413,Simon,720884914,Rental Property,Flush toilet linked to a bio-digester,60,11,Samuel chege,704928932,December,Approved
+Nakuru,Rongai,Menengai West,-0.2778912,36.0042139,Delvin Monchari,713174544,Rental Property,VIDP,7,7,Humphrey Kipyator,727328455,November,Approved
+Nakuru,N.E,Menengai,-0.2778274,36.1119596,Sophia wanjiku,754932710,Rental Property,Flush toilet linked to a septic tank,50,16,Samuel chege,704928932,October,Approved
+Nakuru,Rongai,Mosop,-0.2777556,36.0034002,Samary,714517493,Rental Property,VISP,8,2,Sophia koech,790551191,November,Approved
+Nakuru,Nakuru Town East,Nakuru East,-0.2777535,36.1283134,Zakaria,716256062,Rental Property,Flush toilet linked to a septic tank,55,12,Samuel chege,704928932,December,Approved
+Nakuru,N.E,Nakuru East,-0.2777298,36.1284259,Joyce waruiru,711618479,Household,VIDP,8,8,Emma wairimu,701087462,November,Approved
+Nakuru,N.E,,-0.27769,36.1157,St johns,721520958,School,VISP,458,,Bittah adhiambo,722245949,August,Approved
+Nakuru,Rongai,Mosop,-0.2776327,36.0025734,Sawe,786547890,Rental Property,VISP,10,3,Sophia koech,790551191,November,Approved
+Nakuru,N.E.,Menengai,-0.2775579,36.1317903,Dave Mbuthia,724165484,Rental Property,Septic,55,12,Metrine kutoto,717868840,September,Approved
+Nakuru,Rongai,Mosop,-0.2774252,36.0032986,Emmanuel,710932484,Rental Property,VISP,17,3,Denis Kiplel,700631441,December,Approved
+Nakuru,Rongai,Mosop,-0.2768966,36.0003479,Kennedy,796248526,Rental Property,S. Leach pit,2,1,Vincent kipkurui,794816910,November,Approved
+Nakuru,Rongai,Mosop,-0.2768274,36.0000864,Ronoh,777557573,Rental Property,Septic,2,1,Vincent kipkurui,794816910,November,Approved
+Nakuru,Rongai,Mosop,-0.2767715,36.004447,Mary,724361234,Rental Property,VISP,8,2,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2767106,36.0032802,Kimani,876995594,Rental Property,VISP,8,2,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.27662,36.0038864,Viola,714369821,Rental Property,VISP,8,,Sophia koech,790551191,December ,Approved
+Nakuru,Rongai,Mosop,-0.2765494,36.0047129,Antony athiambo,723488398,Rental Property,VISP,8,2,Vincent kipkurui,794816910,November,Approved
+Nakuru,Rongai,Mosop,-0.2764956,36.0029294,Njeri,756804123,Rental Property,VISP,5,2,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2764329,36.0030675,Kuria,742315688,Rental Property,VISP,14,4,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2763587,36.0036176,Julius,725999998,Rental Property,Septic,25,14,Vincent kipkurui,794816910,November,Approved
+Nakuru,Rongai,Mosop,-0.2763221,36.0036504,Mercy,724587411,Rental Property,VISP,8,3,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2763015,36.0039339,Philis,723456978,Rental Property,VISP,10,3,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2762686,36.0035533,Mervy,725585896,Rental Property,VISP,15,4,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2762546,36.0020257,Irungu,708983294,Rental Property,VISP,16,,Denis Kiplel,700631441,December,Approved
+Nakuru,Rongai,Mosop,-0.2762221,36.0055582,Wachira,745231968,Rental Property,VISP,10,3,Vincent kipkurui,794816910,November,Approved
+Nakuru,Rongai,Mosop,-0.2760943,36.0036294,Dancan,723528391,Rental Property,VISP,20,4,Vincent kipkurui,794816910,November,Approved
+Nakuru,Rongai,Mosop,-0.2760938,36.0001491,Grace House,718085247,Rental Property,Flush toilet linked to a septic tank,26,12,Carol rotich,712844308,December,Approved
+Nakuru,Rongai,Mosop,-0.2759873,36.0040401,Kipsang,758461992,Rental Property,VISP,3,1,Vincent kipkurui,794816910,November,Approved
+Nakuru,N.E,Nakuru East,-0.2758153,36.1148832,Aljias kasembeli,721952990,Market Place,VIDP,300,6,Emma wairimu,701087462,November,Approved
+Nakuru,N.E.,Teachers,-0.275812,36.1148,Natewa market,722245949,Market Place,Septic,100,6,Bittah Adhiambo,722245949,July,Approved
+Nakuru,Rongai,Mosop,-0.2757382,36.0040171,Peris,723652436,Rental Property,VISP,10,4,Sophiq koech,790551191,November,Approved
+Nakuru,N.E,Menengai,-0.2751332,36.1090279,Monchari ingaru,731233781,Rental Property,Flush toilet linked to a septic tank,40,10,George Kamau,791329981,October,Approved
+Nakuru,Rongai,Menengai West,-0.2747882,35.9998068,Ruto Davis,722782669,Household,S. Leach pit,5,1,Humphrey Kipyator,727328455,November,Approved
+Nakuru,N.W,London,-0.2747169,36.0441092,John mwangi,722966739,Other,Septic,,6,Rebecca muyuga,714304642,November,Approved
+Nakuru,N.W.,London,-0.2746099,36.0585894,Joy Suzuki,727525214,Rental Property,VIDP,6,5,Nandi Eddy Baraka,795775680,September,Approved
+Nakuru,N.W.,London,-0.2744919,36.0554433,Moses Barto,13956,Other,Sewer,100,44,Christine Ngetich,720850108,September,Approved
+Nakuru,N.E,Menengai,-0.2744716,36.1089533,Edward Ngugi,111590349,Household,Flush toilet linked to a single leach pit,12,4,George Kamau,791329981,October,Approved
+Nakuru,N.E,Menengai,-0.2742042,36.1129549,Michael mburu,721207503,Rental Property,Flush toilet linked to a single leach pit,20,8,Samuel chege,704928932,October,Approved
+Nakuru,N.E,Menengai,-0.2739811,36.1640867,Githinji,718050848,Rental Property,Septic,50,12,Samuel chege,704928932,November,Approved
+Nakuru,Rongai,Menengai West,-0.2739332,35.9990369,Agnes mwalumbe,729488989,Household,VISP,7,2,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Menengai West,-0.273932,35.9990368,David Kibet,722538599,Household,VISP,5,1,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Menengai West,-0.2739124,36.0209313,Nickson,707848484,Rental Property,Flush toilet linked to a septic tank,4,4,Denis Kiplel,700631441,December,Approved
+Nakuru,Nakuru Town East,Menengai,-0.2736431,36.1128257,Kenya Assemblies ,72044603,Other,Flush toilet linked to a septic tank,200,5,Iris chilongo,725607076,December,Approved
+Nakuru,N.E,Menengai,-0.2736188,36.1166144,Frank Gichuki,77055945,Rental Property,Flush toilet linked to a septic tank,32,8,George Kamau,791329981,October,Approved
+Nakuru,N.E,Menengai,-0.2735246,36.1101783,Jacob ',725447600,Household,Septic,8,4,Veronica w Ngugi,724754201,November,Approved
+Nakuru,N.W.,London,-0.2733912,36.0591185,Otieno ondari,72788801,Rental Property,Septic,50,25,Helen Minayo,724615080,September,Approved
+Nakuru,N.E,Menengai,-0.2732801,36.1075265,Lillian Wangui,782733358,Rental Property,Flush toilet linked to main sewer,40,15,George Kamau,791329981,October,Approved
+Nakuru,N.W.,Mogoon,-0.273219,36.034,Abdikarim Ibrahim,713599452,Household,Septic,9,5,Emily sang,,July,Approved
+Nakuru,N.E,Menengai,-0.2731684,36.1160139,Tony Ruto,71092372,Rental Property,Flush toilet linked to a septic tank,36,10,George Kamau,791329981,October,Approved
+Nakuru,N.W,London,-0.2730833,36.0549947,Maurice Mararu,722383232,Household,Flush toilet linked to a septic tank,36,7,Christine ngetich,720850108,October,Approved
+Nakuru,N.E,Menengai,-0.2726124,36.1161784,Soi Waigwa,74292893,Rental Property,Flush toilet linked to a septic tank,50,10,George Kamau,791329981,October,Approved
+Nakuru,N.W,London,-0.2721778,36.0517551,Joseph mburu,723170696,Household,Septic,45,4,Leah wangari,729755218,November,Approved
+Nakuru,N.W,London,-0.2720896,36.0521282,Mushemi ngatia,722332269,Household,VISP,30,4,Leah wangari,729755218,November,Approved
+Nakuru,Rongai,Menengai West,-0.272,35.9998386,Isaac Kimutai,723632152,Rental Property,Septic,13,13,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Menengai West,-0.2715741,36.0403646,Simon maina,722576339,Other,Flush toilet linked to a septic tank,50,6,Robert tarus,720466915,December,Approved
+Nakuru,N.W.,London,-0.2712807,36.0499922,Ndaiga ndegwa,721823911,Rental Property,Septic,3,8,Leah wangare,729755218,September,Approved
+Nakuru,Rongai,Mosop,-0.2711431,36.0020778,Koech,785963214,Household,VISP,2,1,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2709576,36.0018078,James,721594007,Rental Property,Septic,12,12,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2709519,36.0022496,Dorothy rono,72604986,Household,VISP,5,1,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2708348,36.0015717,Abigael,711188197,Household,VISP,8,2,Sophia Koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2706369,36.0025011,Betty bett,700273766,Household,VISP,5,1,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2701978,36.002585,Celestine,721343233,Household,VISP,7,1,Sophia koech,790115591,November,Approved
+Nakuru,Rongai,Mosop,-0.2701323,36.0077437,Samwuel,725588010,Rental Property,Sato stool,10,4,Chelangat dorcas,717354725,December,Approved
+Nakuru,Rongai,Mosop,-0.2701166,36.0024652,Rebecca,789635241,Household,VISP,5,1,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2700818,36.0023481,Ruth,725505383,Rental Property,Septic,18,4,Sophia koech,79055191,November,Approved
+Nakuru,N.W,London,-0.2699075,36.0503923,Beatrice wanjai,702072034,Household,VISP,40,7,Christine ngetich,720850108,November,Approved
+Nakuru,Rongai,Mosop,-0.269715,36.0063133,Kennedy Mogaka,733764123,Rental Property,Flush toilet linked to a septic tank,40,18,Anthony Githendu Wanjohi,710106804,December,Approved
+Nakuru,Rongai,Mosop,-0.2695221,36.0061702,Joel maina,728963258,Rental Property,VISP,100,,Maryjoy wanjiku thiga,707037294,December,Approved
+Nakuru,Rongai,Menengai West,-0.2694246,35.9994479,Joyce Kimeto,714974342,Household,VISP,3,1,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Menengai West,-0.2694246,35.9994479,Beatrice Tuei,720779530,Household,S. Leach pit,5,1,Humphrey Kipyator,727328455,November,Approved
+Nakuru,N.E,Menengai,-0.2694089,36.1614739,Dorcas Wambui,73314523,Rental Property,Septic,20,10,George Kamau,791329981,November,Approved
+Nakuru,Rongai,Menengai West,-0.269129,36.0081965,Beatrice Nyabonyi,710342640,Household,VIDP,6,1,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Menengai West,-0.2691129,36.0293593,Muguti,719728280,Rental Property,Flush toilet linked to a septic tank,40,12,Tarus robert,720466915,December,Approved
+Nakuru,Rongai,Menengai West,-0.2687605,36.006758,Ann,724227487,School,VISP,145,9,Chelangat dorcas,717354725,December,Approved
+Nakuru,Rongai,Menengai West,-0.2687523,36.0139316,Selina,707848424,Rental Property,Flush toilet linked to a septic tank,15,3,Denis Kiplel,700631441,December,Approved
+Nakuru,Rongai,Menengai West,-0.2687044,36.0077779,Elizabeth Ruto,724808782,Household,VISP,8,1,Humphrey Kipyator,727328455,November,Approved
+Nakuru,N.E,Menengai,-0.2684345,36.1076973,Edgar kuria,115441289,Rental Property,Flush toilet linked to a septic tank,30,4,George Kamau,791329981,October,Approved
+Nakuru,N.E,Menengai,-0.2683905,36.1166969,Elizabeth Mumbi,759708911,Rental Property,Septic,25,8,George Kamau,791329981,November,Approved
+Nakuru,N.E,Nakuru East,-0.2683623,36.1080623,Kuria,721899064,Rental Property,Flush toilet linked to a septic tank,50,16,Samuel chege,704928932,October,Approved
+Nakuru,Rongai,Menengai West,-0.2682005,36.0054341,Robinson micheka,721267316,Other,Flush toilet linked to a septic tank,15,3,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Menengai West,-0.2681951,36.0075795,Sharon Chirchir,707949164,Household,VISP,3,1,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Menengai West,-0.2680982,36.028512,Kamau,722250190,Other,Septic,50,12,Robert tarus,720466915,November,Approved
+Nakuru,N.E,Nakuru East,-0.2678007,36.1073231,Joe,792637157,Rental Property,Flush toilet linked to a septic tank,40,10,Samuel chege,704928932,October,Approved
+Nakuru,Rongai,Menengai West,-0.2677794,36.0156219,James kungu,72222222,Rental Property,Flush toilet linked to a septic tank,50,18,Lucy kiprotich,729280278,December,Approved
+Nakuru,N.E,Menengai,-0.2677705,36.1075966,James Ambita,786147866,Rental Property,Flush toilet linked to a septic tank,40,10,George Kamau,791329981,October,Approved
+Nakuru,N.E,Menengai,-0.2670799,36.1273496,Muriithi,727849302,Rental Property,Septic,50,15,Samuel chege,704928932,November,Approved
+Nakuru,N.E,Menengai,-0.2666229,36.1188919,Leah Muchiri,786127288,Rental Property,Septic,50,14,Esther kairu,740280799,November,Approved
+Nakuru,Rongai,Menengai West,-0.2660577,36.0074256,Josephine Atieno,7.00E+08,Rental Property,VISP,5,3,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Menengai West,-0.2659118,36.009366,Langat Gilbert,722866883,Rental Property,VIDP,13,13,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Menengai West,-0.2658681,36.0249234,Davis  njoronge,722741231,Rental Property,VISP,30,6,Tarus robert,720466915,November,Approved
+Nakuru,Rongai,Mosop,-0.2656708,36.0021871,Jackson,704845491,Rental Property,VISP,10,,Denis Kiplel,700631441,December,Approved
+Nakuru,Rongai,Menengai West,-0.2654482,36.0076746,David Bahati,798137415,Rental Property,Septic,12,12,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Mosop,-0.2654155,36.0056958,Harry kibet,798979710,Rental Property,Flush toilet linked to a septic tank,40,8,Maryjoy wanjiku thiga,707037294,December,Approved
+Nakuru,Rongai,Menengai West,-0.2653617,36.0093993,Mercy Oure,727438714,Rental Property,VIDP,12,12,Humphrey Kipyator,727328455,November,Approved
+Nakuru,N.E,Menengai,-0.2650706,36.1272351,Theophilus Muriuki,721708560,Rental Property,Septic,50,16,Esther kairu,740288790,November,Approved
+Nakuru,N.E,Menengai,-0.2648889,36.1259781,John Onsongo,780207890,Rental Property,Septic,30,10,George Kamau,791329981,November,Approved
+Nakuru,Rongai,Menengai West,-0.2647926,36.0098675,Joseph barasa,743689523,Rental Property,Flush toilet linked to a septic tank,20,10,Chelangat dorcas,717354725,December,Approved
+Nakuru,Rongai,Menengai West,-0.2640996,36.0092231,Harrison kinyanjui,725444648,Rental Property,Septic,25,14,Metrine Kutoto,717868840,September,Approved
+Nakuru,N.E,Menengai,-0.2636891,36.1280835,Mercy Waithera,720708562,Rental Property,Septic,30,10,George Kamau,791329981,November,Approved
+Nakuru,Rongai,Menengai West,-0.2628087,36.0122564,Maria,705568827,Household,VISP,7,1,Robert kosgei,728952786,December,Approved
+Nakuru,N.E,Menengai,-0.2627471,36.1205879,Ezekiel Muthomi,73160780,Rental Property,Septic,40,13,Esther kairu,791329981,November,Approved
+Nakuru,N.E,Nakuru East,-0.2626478,36.1206824,Francis,713941655,Rental Property,Septic,50,14,Samuel chege,704928932,November,Approved
+Nakuru,Rongai,Menengai West,-0.2624778,36.0122,Boaz,724607638,Rental Property,VISP,10,2,Chelangat dorcas,717354725,December,Approved
+Nakuru,Rongai,Menengai West,-0.2623836,36.0120443,Mathew,70167744,Rental Property,Flush toilet linked to a septic tank,7,7,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Menengai West,-0.2611231,35.9788795,Robert Wafula,78394110,Rental Property,Septic,14,14,Humphrey Kipyator,727328455,November,Approved
+Nakuru,Rongai,Mosop,-0.2590708,35.9923,Vinny,790544348,Rental Property,Flush toilet linked to a septic tank,16,16,Sophia koech,790551191,December,Approved
+Nakuru,Rongai,Mosop,-0.2582307,35.9890907,Anthony,724536789,Rental Property,Flush toilet linked to a septic tank,18,9,Chelangat Dorcas,717354725,December,Approved
+Nakuru,N.W,London,-0.2581994,36.0436467,Oscar,725867478,Household,VISP,4,3,Alfred,725888447,November,Approved
+Nakuru,N.W.,Kiamunyi,-0.256902,35.9959,Mr Julius,7,Rental Property,Septic,20,8,Emmanuelson Omanyo,705916265,July,Approved
+Nakuru,Rongai,Menengai West,-0.2563269,35.9752516,Catherine lumbasi,7.00E+07,Rental Property,VISP,2,2,Humphrey Kipyator,72732845,November,Approved
+Nakuru,Rongai,Menengai West,-0.2543746,35.9730967,Moraa,721431808,Rental Property,VIDP,6,6,Humphrey Kipyator,727328455,December,Approved
+Nakuru,Rongai,Menengai West,-0.2508176,36.0109883,Sarah,704049404,Rental Property,Flush toilet linked to a septic tank,16,16,Denis Kiplel,700631441,December,Approved
+Nakuru,Rongai,Mosop,-0.2495413,35.9390529,Robert kariuki,734567345,Rental Property,VISP,14,3,Chelangat dorcas,717354725,December,Approved
+Nakuru,Rongai,Mosop,-0.2494091,35.9379593,Rose,700456738,Rental Property,VISP,16,2,Chelangat dorcas,717354725,December,Approved
+Nakuru,Rongai,Mosop,-0.2490885,35.9399193,Enock,745666455,Rental Property,VISP,4,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Mosop,-0.2489357,35.9387648,Elizabeth nderitu,726560890,Household,VISP,4,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Mosop,-0.2488565,35.9378892,John kauria,715830817,Household,VIDP,8,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Menengai West,-0.2488316,35.9732709,Benjamin wangila,724391072,Household,VIDP,5,1,Victoria Rioba,712898879,November,Approved
+Nakuru,Rongai,Menengai West,-0.2487952,35.9733389,Wangila benjamin,724391072,Household,VIDP,5,1,Victoria Rioba,712898879,November,Approved
+Nakuru,Rongai,Menengai West,-0.2487842,35.9732632,Wangila benjamin,724391072,Household,VIDP,5,1,Victoria Rioba,712898879,November,Approved
+Nakuru,Rongai,Mosop,-0.2486286,35.9397047,Mosop ward office,745328853,Health Facility,VISP,18,5,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Mosop,-0.2482744,35.9398482,Sarah wanjiku,723149567,Household,VIDP,6,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Mosop,-0.2480597,35.9401361,Kamau,726453410,Rental Property,Flush toilet linked to a septic tank,22,10,Richard Mungai,729662738,December,Approved
+Nakuru,Rongai,Mosop,-0.2476305,35.9401016,Ebenezer,736229225,Rental Property,VISP,9,2,Richard Mungai,729662738,December,Approved
+Nakuru,Rongai,Mosop,-0.2475713,35.939735,Brian rotich,712897525,Rental Property,Flush toilet linked to a septic tank,18,10,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Mosop,-0.2475436,35.9393634,Vincent Ndirangu,715454326,Rental Property,Flush toilet linked to a septic tank,26,11,Richard Mungai,729662738,December,Approved
+Nakuru,Rongai,Mosop,-0.2471862,35.941285,Agc church sobea,735523776,Other,VISP,18,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Mosop,-0.247005,35.9409388,Momera,723456700,Rental Property,VISP,14,2,Chelangat Dorcas,717354725,December,Approved
+Nakuru,Rongai,Mosop,-0.2468211,35.940213,Mwendwa ken,785333990,Rental Property,Flush toilet linked to a septic tank,13,8,Robert kosgei,721775595,December,Approved
+Nakuru,Rongai,Mosop,-0.2468044,35.9406965,Philip,722969379,Rental Property,VISP,10,3,Richard Mungai,729662738,December,Approved
+Nakuru,Rongai,Mosop,-0.24672,35.9396059,Benjamin,70045378,Rental Property,VISP,16,2,Chelangat Dorcas,717354725,December,Approved
+Nakuru,Rongai,Mosop,-0.2465744,35.9397311,Musa rogony,745396335,Rental Property,VISP,6,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Mosop,-0.2464632,35.9404996,Gladys Warigia,729672839,Rental Property,VISP,5,3,Richard Mungai,729662738,December,Approved
+Nakuru,Rongai,Mosop,-0.24629,35.9409006,Oryx,726252289,Rental Property,VISP,18,3,Richard Mungai,729662738,December,Approved
+Nakuru,Rongai,Mosop,-0.2462892,35.9397236,Nicholus,728913842,Rental Property,VISP,14,3,Chelangat Dorcas,717354725,December,Approved
+Nakuru,Rongai,Menengai West,-0.2456714,36.0045126,Ngelion,759856985,Household,VISP,6,1,Vincent kipkurui,794816910,December,Approved
+Nakuru,Rongai,Menengai West,-0.2450336,36.0073354,Lilian,722359193,Rental Property,VISP,16,5,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Menengai West,-0.2450124,36.0045731,Jane,727450430,Rental Property,VISP,8,2,Chelangat dorcas,717354725,December,Approved
+Nakuru,Rongai,Menengai West,-0.2443847,36.0003289,Sammy karori,78057614,Household,VISP,2,2,Robert k tarus,720466915,November,Approved
+Nakuru,Rongai,Mosop,-0.2436186,35.9437281,Lavender,724229440,Rental Property,VISP,16,2,Chelangat Dorcas,717354725,December,Approved
+Nakuru,Rongai,Menengai West,-0.2432384,36.0068329,Philip maritim,724786532,Rental Property,VISP,9,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Menengai West,-0.2409889,36.0064616,Ken,704846195,Rental Property,VISP,12,2,Denis Kiplel,700631441,December,Approved
+Nakuru,Rongai,Menengai West,-0.2400111,36.0061858,Magori,732974556,Rental Property,VISP,8,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Menengai West,-0.2383774,35.9857901,Job kole,723916932,Household,S. Leach pit,3,1,Victoria Rioba,712898879,November,Approved
+Nakuru,Rongai,Mosop,-0.2372962,35.893863,Joan,716985845,Rental Property,VISP,5,2,Maryjoy wanjiku thiga,707037294,December,Approved
+Nakuru,Rongai,Menengai West,-0.2359612,35.955388,Fred onyango,791912244,Household,S. Leach pit,5,1,Victoria Rioba,712898879,November,Approved
+Nakuru,Rongai,Mosop,-0.2358767,35.8987306,Patrick waweru,745379322,Rental Property,VISP,28,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Menengai West,-0.2348942,35.9797479,Agc kirobon church,722907135,Other,S. Leach pit,300,5,Victoria Rioba,712898879,November,Approved
+Nakuru,Rongai,Mosop,-0.2342042,35.8985829,Joseph,715888967,Rental Property,VISP,18,6,Maryjoy wanjiku thiga,707037294,December,Approved
+Nakuru,Rongai,Mosop,-0.2340217,35.8472602,Wycliff Nyamao,782781945,Household,VISP,7,2,Joyce Bwari,718036178,December,Approved
+Nakuru,Rongai,Mosop,-0.2339883,35.84664,Paul Sang,750756868,Household,VISP,8,2,Joyce Bwari,718036178,December,Approved
+Nakuru,Rongai,Menengai West,-0.2318438,35.9489957,Denis wambura,724810761,Household,S. Leach pit,3,1,Victoria rioba,712898879,November,Approved
+Nakuru,Rongai,Menengai West,-0.2302656,35.9973115,Abel moranga,725851179,Household,VISP,5,2,Robert tarus,720466915,December,Approved
+Nakuru,Rongai,Mosop,-0.2292492,35.8319138,Christine Mutinda,796050510,Household,VISP,4,1,Douglas Yator,726487771,November,Approved
+Nakuru,Rongai,Mosop,-0.2237229,35.8478495,Margaret kilel,757455910,Rental Property,VIDP,16,2,Harun mutonga,711209432,December,Approved
+Nakuru,Rongai,Mosop,-0.2230738,35.8483639,George,700853652,Household,VISP,30,2,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.220765,35.8277,Department health,722624021,Health Facility,Flush toilet linked to a septic tank,1,1,Douglas Yator,726487771,October,Approved
+Nakuru,Rongai,Mosop,-0.2207056,35.8257629,MoE  primary,721627600,School,VIDP,415,8,Douglas Yator,726487771,November,Approved
+Nakuru,Rongai,Mosop,-0.2200267,35.8311783,Robert koskei,715323512,Other,VISP,80,2,Richard Kilel,700917478,November,Approved
+Nakuru,Rongai,Mosop,-0.219725,35.8534152,Florence Njoki,728553685,Household,VISP,4,2,Harun mutonga,711209432,December,Approved
+Nakuru,Rongai,Mosop,-0.21959,35.8310168,Robert koskei,715323512,Other,VISP,80,2,Richard Kilel,700917478,November,Approved
+Nakuru,Rongai,Mosop,-0.2192367,35.9065138,Rai,745326844,Other,Flush toilet linked to a septic tank,40,5,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Visoi,-0.2146213,35.8677375,Elijah kibet,718547738,Rental Property,VISP,26,2,Anthony Githendu,710106804,December,Approved
+Nakuru,Rongai,Visoi,-0.2144172,35.8683278,Grace,728463280,Rental Property,VISP,20,7,Roseline chepkorir,702150987,December,Approved
+Nakuru,Rongai,Visoi,-0.2143282,35.8666368,Edwin,722363985,Rental Property,VISP,20,2,Roseline chepkorir,702150987,December,Approved
+Nakuru,Rongai,Visoi,-0.2141249,35.8667206,Ng'eno Kelvin,722302441,Rental Property,VISP,23,3,Anthony Githendu,710106804,December,Approved
+Nakuru,Rongai,Mosop,-0.2136337,35.8531167,Edward,745362145,Rental Property,VISP,30,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2134862,35.8531537,Trizah,701548464,Rental Property,VISP,12,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2132943,35.8528177,Rebecca,741235142,Rental Property,VISP,13,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2129544,35.8527241,Ngunjiri,721563258,Rental Property,Flush toilet linked to a septic tank,25,10,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2127857,35.853408,Winny,725142546,Rental Property,Flush toilet linked to a septic tank,15,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2127638,35.852146,Purity,709346151,Rental Property,VISP,21,4,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2127545,35.8532585,Mark,752356214,Rental Property,VISP,25,4,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2127267,35.8517863,Masese,722536582,Rental Property,VISP,13,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2126621,35.8523392,Faridah,748535634,Rental Property,VISP,20,4,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2125981,35.852856,Kimani,705523465,Rental Property,VISP,15,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.212575,35.8443582,Daniel Chelule,72264957,Other,VISP,50,4,Douglas Yator,726487771,November,Approved
+Nakuru,Rongai,Mosop,-0.2122122,35.8533698,Susan,745213165,Rental Property,VISP,26,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.212114,35.8518588,Faith,752144583,Rental Property,VISP,15,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2120882,35.8515905,Anzala,711125346,Rental Property,VISP,22,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2120828,35.8528388,John,712356485,Rental Property,VISP,30,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Visoi,-0.2120253,35.862964,James Kinyua,721773671,Rental Property,VISP,28,2,Anthony Githendu,710106804,December,Approved
+Nakuru,Rongai,Mosop,-0.2120165,35.8531438,Dennis,756324187,Household,VISP,16,2,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2119271,35.8530211,Fridah,725134645,Rental Property,Flush toilet linked to a septic tank,24,12,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2116742,35.8514619,Laban,785234618,Rental Property,VISP,20,4,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2114204,35.8529151,Tito,721453895,Rental Property,VISP,14,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2111113,35.8516334,Dennis,741235621,Market Place,VISP,35,5,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2110562,35.8531557,George,715326124,Rental Property,VISP,22,12,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2110016,35.853616,Joseph,45219538,Rental Property,Flush toilet linked to a septic tank,16,1,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2108317,35.8532084,Mildred,713645281,Rental Property,VISP,16,8,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2106525,35.8528411,Esther,721236513,Rental Property,VISP,12,2,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2106225,35.8531385,Jael,713652864,Rental Property,VISP,9,4,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,,-0.2105093,35.8441812,Mr Francis,7,Rental Property,Septic,30,10,Metrine Kutoto,717868840,September,Approved
+Nakuru,Rongai,Mosop,-0.210411,35.8473208,Tuyoiek,752356890,Rental Property,VISP,20,6,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2102716,35.8484781,Ruttoh,74235689,Rental Property,VISP,12,5,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2102659,35.8498721,Daniel,712121236,Rental Property,VISP,10,5,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2102107,35.8521185,Jenfer,742351618,Rental Property,VISP,8,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2100698,35.8493344,Peter,741741741,Rental Property,VISP,5,2,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.209961,35.8465833,Ronny Langat,722841006,Household,VISP,5,2,Nancy Simiyu,724533077,November,Approved
+Nakuru,Rongai,Mosop,-0.2099582,35.8499206,Betty,723654890,Rental Property,VISP,15,5,Eunice cherobon,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2099166,35.8539649,Jomo,708484649,Rental Property,Flush toilet linked to a septic tank,36,15,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Visoi,-0.2098746,35.8585466,Peter kemei,721702429,Market Place,VIDP,30,3,kizito,722663014,November,Approved
+Nakuru,Rongai,Mosop,-0.2097669,35.8494288,Ledama,741258096,Rental Property,VISP,12,6,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2097233,35.8523928,Chesire,722662575,Rental Property,S. Leach pit,36,19,Sophia koech,790551191,November,Approved
+Nakuru,Rongai,Mosop,-0.2095822,35.8514138,Jameson,752635481,Rental Property,VISP,16,1,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2095274,35.8494415,Siele,78052580,Rental Property,VISP,5,3,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2094458,35.848834,Yuitoik,74123654,Rental Property,VISP,6,2,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2093831,35.8541293,Michael Sigei,72242604,Rental Property,Septic,8,8,Douglas Yator,726487771,November,Approved
+Nakuru,Rongai,Visoi,-0.2093272,35.8573331,Kegan,720269314,Rental Property,Flush toilet linked to a septic tank,39,14,Richard Mungai,729662738,December,Approved
+Nakuru,Rongai,Visoi,-0.2091261,35.8992237,Jones mokoro,72876396,Household,VISP,2,2,Toilet board,745566614,December,Approved
+Nakuru,Rongai,Mosop,-0.2090698,35.8496554,Etui,741236580,Rental Property,VISP,12,6,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2089608,35.8491323,Kiharia,741258096,Rental Property,VISP,20,5,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2088914,35.850121,Eunice,780563235,Rental Property,VISP,8,4,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2088173,35.8500061,Wanga,721432658,Rental Property,VISP,15,6,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2087548,35.8502264,Nancy,758052365,Rental Property,VISP,18,6,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2087417,35.850145,Evans,752365890,Rental Property,VISP,13,6,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2086568,35.8540396,Joseph,742135689,Market Place,VISP,20,3,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.208586,35.8484786,Tamash,789098653,Rental Property,VISP,16,4,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Mosop,-0.2085169,35.8524297,Susan,715632458,Rental Property,VISP,23,4,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Mosop,-0.2084898,35.8535086,Joel,45236587,Rental Property,VISP,10,,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Visoi,-0.2083328,35.8599994,Robert korir,0,Rental Property,Flush toilet linked to a bio-digester,35,7,Dedan gitau,796050990,December,Approved
+Nakuru,Rongai,Mosop,-0.2083213,35.8522406,Elphas,785236458,Rental Property,Flush toilet linked to a septic tank,20,8,Moses Etyang,745836550,December,Approved
+Nakuru,Rongai,Visoi,-0.2081953,35.8599618,Mututo,74205634,Rental Property,Flush toilet linked to a septic tank,50,16,Roseline chepkorir,702150987,December,Approved
+Nakuru,Rongai,Mosop,-0.2078982,35.8441164,Janet kerich,720570328,Rental Property,VIDP,28,3,Chepkemoi Faith,720288434,December,Approved
+Nakuru,Rongai,Visoi,-0.2078235,35.8592242,Sheila,725243935,Rental Property,VISP,6,2,Richard Mungai,729662738,December,Approved
+Nakuru,Rongai,Mosop,-0.2077893,35.8441587,Leonard kosgei,729703415,Household,VISP,15,3,Faith chepkemoi,720288434,December,Approved
+Nakuru,Rongai,Mosop,-0.2076939,35.8486823,Treat,7369258,Rental Property,VISP,12,5,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Visoi,-0.207569,35.8597622,Humphrey Kamau,728410299,Rental Property,VISP,40,2,Anthony Githendu,710106804,December,Approved
+Nakuru,Rongai,Visoi,-0.2073413,35.8594231,James Kahura,723114167,Rental Property,VISP,20,2,Anthony Githendu,710106804,December,Approved
+Nakuru,Rongai,Mosop,-0.2070747,35.8486257,Ruki,712345698,Rental Property,VISP,15,5,Eunice kurgat,721742234,December,Approved
+Nakuru,Rongai,Visoi,-0.2070494,35.8591317,Kemei,72285066,Rental Property,VISP,18,2,Roseline chepkorir,702150987,December,Approved
+Nakuru,Rongai,Mosop,-0.2069181,35.838905,Monica chesire,712854109,Rental Property,VIDP,12,3,Chepkemoi Faith,720288434,November,Approved
+Nakuru,Rongai,Visoi,-0.2068987,35.8597132,Nyambura,728954687,Rental Property,VISP,10,2,Roseline chepkorir,702150987,December,Approved
+Nakuru,Rongai,Mosop,-0.2068188,35.8388845,Maureen,716666364,Household,VIDP,10,4,Faith chepkemoi,720288434,November,Approved
+Nakuru,Rongai,Visoi,-0.2066108,35.8574644,James,736984357,Rental Property,VISP,15,3,Roseline chepkorir,702150987,December,Approved
+Nakuru,Rongai,Visoi,-0.2064383,35.8595013,Graham Kamau,712844212,Household,VISP,7,1,Anthony Githendu,710106804,December,Approved
+Nakuru,Rongai,Visoi,-0.206155,35.8589483,Elijah Kibet,726987162,Rental Property,VISP,40,2,Anthony Githendu,710106804,December,Approved
+Nakuru,Rongai,Visoi,-0.2048633,35.8488584,Stanley ngetich,727420146,Other,VIDP,20,2,kizito,722663014,November,Approved
+Nakuru,Rongai,Mosop,-0.2046264,35.8436583,Hilary koros,72624856,Household,Flush toilet linked to a septic tank,10,3,Chepkemoi Faith,720288434,December,Approved
+Nakuru,Rongai,Visoi,-0.2043036,35.8479922,Naomi soy,726646320,Rental Property,Flush toilet linked to a septic tank,60,4,Chepkemoi Faith,720288434,December,Approved
+Nakuru,Rongai,Visoi,-0.2003403,35.8396745,Rosemary chpngetich,711772280,Household,VIDP,10,3,Faith chepkemoi,720288434,November,Approved
+Nakuru,Rongai,Mosop,-0.2003113,35.8393192,Bett kiprono Denis,72409303,Household,VIDP,10,3,Faith chepkemoi,720288434,November,Approved
+Nakuru,Rongai,Visoi,-0.1992634,35.9354772,Umoja ECD,72594523,School,VISP,82,4,Linah nyaban,72081096,November,Approved
+Nakuru,Rongai,Visoi,-0.1961222,35.8918075,Milicah Abere,734666311,Household,Sato pan,8,3,Sanitation kenya,745566614,December,Approved
+Nakuru,Rongai,Visoi,-0.1947407,35.8895381,Paul Maluki,111376655,Household,Sato pan,5,1,Making toilets building communities,745566614,December,Approved
+Nakuru,Rongai,Mosop,-0.1944708,35.8926992,Harrison,735339007,Rental Property,VISP,5,2,Robert kosgei,728952786,December,Approved
+Nakuru,Rongai,Visoi,-0.1943039,35.8928937,Stephen njenga,727888721,Other,VIDP,15,2,kizito,722663014,November,Approved
+Nakuru,Rongai,Soin,-0.1897801,36.0034811,Elizabeth Komen,772635307,Household,VISP,8,3,Royd kipchumba,71786644,November,Approved
+Nakuru,Rongai,Soin,-0.1889249,36.0052698,Mr Kebut,774543794,Household,VISP,10,3,Royd Kipchumba,717866454,November,Approved
+Nakuru,Rongai,Soin,-0.1880864,36.0032357,Tonie komen,731181616,Household,VISP,8,2,Royd kipchumba,717866454,December,Approved
+Nakuru,Rongai,Visoi,-0.1878796,35.9341566,Kayanet primary,721468786,School,VIDP,200,4,Michael cheruiyot,704739058,November,Approved
+Nakuru,Rongai,Soin,-0.1877571,36.002201,Richard Komen,722589381,Household,VIDP,6,2,Royd kipchumba,717866454,December,Approved
+Nakuru,Rongai,Soin,-0.1875134,36.0021621,Richard Komen,72648431,Household,VISP,10,3,Royd Kipchumba,717866454,November,Approved
+Nakuru,Rongai,Soin,-0.1874418,36.005078,Joshep Toroitich,746755170,Household,Flush toilet linked to a septic tank,16,10,Royd kipchumba,717866454,December,Approved
+Nakuru,Rongai,Soin,-0.1872582,36.0044103,Bob toroitich,725632147,Household,VIDP,8,2,Royd kipchumba,717866454,December,Approved
+Nakuru,Rongai,Kayanet,-0.186345,35.9325,Wycliffe Matini,70411446,Household,Flush toilet linked to a septic tank tank,8,6,Michael Cheruiyot,704739058,June,Approved
+Nakuru,Rongai,Soin,-0.184558,36.0086648,Mr Kipkonga,23490600,Household,VISP,6,2,Royd Kipchumba,717866454,November,Approved
+Nakuru,Rongai,Soin,-0.1842793,36.0112599,Gideon Chesiyna,722621308,Household,VISP,10,3,Royd Kipchumba,717866454,November,Approved
+Nakuru,Rongai,Soin,-0.1832722,36.0172149,Mrs kulei,722686189,Household,Flush toilet linked to a septic tank,5,6,Royd kipchumba,717866454,December,Approved
+Nakuru,Rongai,Soin,-0.1832384,36.0177356,Kennedy chesire,720776181,Household,VIDP,10,3,Royd kipchumba,717866454,December,Approved
+Nakuru,Rongai,Soin,-0.1831903,36.0113886,Mercy Jepkemoi,702181573,Household,VISP,4,2,Royd Kipchumba,717866454,November,Approved
+Nakuru,Rongai,Soin,-0.1824918,36.0022656,Patritia komen,717864548,Household,VIDP,2,2,Royd Kipchumba,717866454,December,Approved
+Nakuru,Rongai,Soin,-0.1823773,36.0039502,Patritia komen,714648484,Household,VIDP,16,3,Royd kipchumba,717866454,December,Approved
+Nakuru,Rongai,Visoi,-0.1822538,36.0092603,Nancy kuriai,71123436,Household,S. Leach pit,5,2,Salina j kiprop,72688273,November,Approved
+Nakuru,Rongai,Soin,-0.1807704,36.0125148,Peter kemei,721560861,Household,Septic,5,5,Salina j kiptoon,726882732,November,Approved
+Nakuru,Rongai,Soin,-0.1802665,36.0065679,Mr Argut,753644848,Household,VIDP,8,3,Royd kipchumba,717866484,December,Approved
+Nakuru,Rongai,Soin,-0.1798218,36.0083924,Gladys Chirchir,725617214,Household,VIDP,12,3,Royd kipchumba,717866454,December,Approved
+Nakuru,Rongai,Soin,-0.1792516,36.0095419,Amon,723529255,Household,VIDP,4,3,Royd kipchumba,71786454,December,Approved
+Nakuru,Rongai,Menengai West,-0.1730909,36.0014929,Raymond ngetich,0,Household,VISP,8,2,Vincent ngeny,722475347,December,Approved
+Nakuru,Rongai,Visoi,-0.1708021,35.8604155,Nancy kuria,720109175,Rental Property,Flush toilet linked to a septic tank,50,11,Faith chepkemoi,720288434,December,Approved
+Nakuru,Rongai,Soin,-0.1669584,36.0091791,Tony Kimosop,735874112,Household,VIDP,6,3,Denis Kipruto,701819403,December,Approved
+Nakuru,Rongai,Soin,-0.1666282,36.0086828,modesta matoke,719302364,Household,VIDP,6,2,Denis Kipruto,701819403,December,Approved
+Nakuru,Rongai,Visoi,-0.1645194,35.9496701,Reuben kimaru,721580725,Household,VISP,8,2,Michael cheruiyot,704739058,December,Approved
+Nakuru,Rongai,Visoi,-0.16305,35.8433971,Charles korir,720802059,Household,VIDP,7,2,kizito,722663014,November,Approved
+Nakuru,Rongai,Soin,-0.1620296,35.9727897,Maina Kamau,728536415,Rental Property,Flush toilet linked to a septic tank,25,10,Denis Kipruto,701819403,December,Approved
+Nakuru,Rongai,Soin,-0.1609013,35.9733593,Ken kiplagat,723859720,Rental Property,VISP,20,3,Salina j kiptoon,726882732,November,Approved
+Nakuru,Rongai,Visoi,-0.1602277,35.8395182,Raymond,723165072,Household,VIDP,5,3,kizito,722663014,November,Approved
+Nakuru,Rongai,Soin,-0.1600494,35.9675376,Wilfred Mutai,794224724,Rental Property,Flush toilet linked to a bio-digester,20,10,Denis Kipruto,701819403,December,Approved
+Nakuru,Rongai,Soin,-0.1581539,35.9677093,Dickson kaptum,721546110,Rental Property,Septic,200,3,Salina j kiptoon,726882732,November,Approved
+Nakuru,Rongai,Soin,-0.1552501,35.9635669,Gilbert Cherono,799483204,Rental Property,VIDP,16,4,Denis Kipruto,701819403,December,Approved
+Nakuru,Rongai,Soin,-0.1550862,35.9636944,Colin's Bowen,710328125,Rental Property,VIDP,20,4,Denis Kipruto,701819403,December,Approved
+Nakuru,Rongai,Soin,-0.154922,35.9638727,Mohammad Nor,725178250,Rental Property,VIDP,24,3,Denis Kipruto,701819403,December,Approved
+Nakuru,Rongai,Visoi,-0.1549113,35.8412721,Daniel tanui,727087307,Household,VIDP,5,2,kizito,722663014,November,Approved
+Nakuru,Rongai,Soin,-0.1547635,35.9677681,Josephine Wamaitha,756134282,Rental Property,Flush toilet linked to a septic tank,20,10,Denis Kipruto,701819403,December,Approved
+Nakuru,Rongai,Soin,-0.1542029,35.9603231,Daniel langat,722621668,Other,VIDP,80,3,Salina j kiptoon,726882732,November,Approved
+Nakuru,Rongai,Visoi,-0.1534774,35.8464657,John wakaba,726994524,Other,VIDP,10,3,kizito,722663014,November,Approved
+Nakuru,Rongai,Visoi,-0.1530427,35.8463442,Andrew mokaya,743800537,Household,VIDP,6,3,kizito,722663014,November,Approved
+Nakuru,Rongai,Visoi,-0.1527544,35.8459619,Zakayo mwangi,790845955,Household,VIDP,4,2,kizito,722663014,November,Approved
+Nakuru,Rongai,Visoi,-0.1515858,35.8268955,John chirchir,707196328,Household,VIDP,8,2,Kizito mahero,722663014,December,Approved
+Nakuru,Rongai,Visoi,-0.1511415,35.8342999,Stella mugambi,723156776,Household,VIDP,4,3,Kizito mahero,722663014,December,Approved
+Nakuru,Rongai,Visoi,-0.1511349,35.8345583,Gilbert kirui,710401083,Household,VIDP,4,2,Priscilla,724266328,December,Approved
+Nakuru,Rongai,Visoi,-0.1510963,35.8349238,Priscilla okwisa,724266328,Household,VIDP,4,2,Priscilla okwisa,724266328,December,Approved
+Nakuru,Rongai,Soin,-0.1500278,35.9585826,Dorcas lagat,722699091,Household,VIDP,2,2,Salina j kiptoon,726882732,November,Approved
+Nakuru,Rongai,Soin,-0.1498761,35.9560824,Sun  school,726882732,School,VIDP,500,9,Salina J Kiptoon,726882732,December,Approved
+Nakuru,Rongai,Soin,-0.1495782,35.9586076,Pcea,718764891,Other,VIDP,15,2,Salina j kiptoon,726882732,November,Approved
+Nakuru,Rongai,Soin,-0.1492959,35.9626591,John kosgei,729667461,Rental Property,VISP,50,3,Peter kipkulei,723910882,December,Approved
+Nakuru,Rongai,Soin,-0.1490991,35.9719651, police station,742069400,Other,VISP,40,4,Peter kipkulei,723910882,December,Approved
+Nakuru,Rongai,Soin,-0.1489645,35.9627677,Beatrice chepchieng,729098482,Rental Property,VIDP,2,2,Cynthia Jemuge,790868875,December,Approved
+Nakuru,Rongai,Visoi,-0.1483632,35.9301098,Antony kiprotich,716157492,Household,VISP,8,2,Peter kipkulei,723910882,December,Approved
+Nakuru,Rongai,Visoi,-0.1479946,35.8285863,Seventh Adventist,722244878,Other,VIDP,50,2,Kizito mahero,722663014,December,Approved
+Nakuru,Rongai,Soin,-0.1428244,35.9461973,Ken Kiplagat,723859720,Rental Property,VIDP,19,5,Salina J Kiptoon,726882732,December,Approved
+Nakuru,Rongai,Soin,-0.142634,35.9463297,Elijah Rotich,722892495,Rental Property,VIDP,16,5,790868875,790868875,December,Approved
+Nakuru,Rongai,Soin,-0.1423154,35.9472611,Lawrence Kangongo,72003252,Rental Property,VIDP,8,4,Cynthia Jemuge,790868875,December,Approved
+Nakuru,Rongai,Soin,-0.1419154,35.9456146,Mike Manyagy,790868875,Rental Property,VIDP,24,6,Salina J Kiptoon,726882732,December,Approved
+Nakuru,Rongai,Soin,-0.1386936,35.9553194,Ezekiel kiboss,720600709,Household,VIDP,5,2,Salina j kiprop,726882732,December,Approved
+Nakuru,Rongai,Visoi,-0.127236,35.9415234,DC's office,729280270,Other,VIDP,100,2,Michael cheruiyot,704739058,October,Approved
+Nakuru,Rongai,Soin,-0.1262867,35.9439485,Stanley chirchir,722933843,Rental Property,VISP,20,2,Pho,722475347,December,Approved
+Nakuru,Rongai,Soin,-0.1258126,35.943956,Symon kipchilat,722450671,Rental Property,VISP,20,2,Peter kipkulei,723910882,December,Approved
+Nakuru,Rongai,Visoi,-0.1245919,35.9358847,St John's Kampi,72237104,Other,VISP,50,3,Florence Jeruto,722915124,November,Approved
+Nakuru,Rongai,Soin,-0.1243288,35.9435444,Gilbert kiplich,721382205,Rental Property,VIDP,50,3,Cynthia Jemuge,790868875,December,Approved
+Nakuru,Rongai,Menengai West,-0.1222093,36.0083719,Emkwen ecde,721927741,School,VIDP,100,6,Vincent ngeny,722475347,November,Approved
+Nakuru,Rongai,Menengai West,-0.1218364,36.0071902,leakey primary,5555,School,VIDP,100,8,Vincent Ngeny,722475347,November,Approved
+Nakuru,Rongai,Soin,-0.1199045,35.9427726,Mike kemboi,724862579,Household,VIDP,5,2,Salina j kiptoon,726882732,December,Approved
+Nakuru,Rongai,Soin,-0.100535,35.9353397,Pendo pingwa,721654376,Rental Property,VIDP,20,4,Salina j kiprop,726882732,December,Approved
+Nakuru,Rongai,Soin,-0.100136,35.935342,Kibet Mr,774345191,Rental Property,VIDP,12,4,Salina j kiptoon,726882732,December,Approved
+Nakuru,Rongai,Soin,-0.1000525,35.9352413,Gibson bobet,725050461,Rental Property,VIDP,60,3,Salina j kiptoon,726882732,December,Approved
+Nakuru,Rongai,Soin,-0.0864068,35.8719967,Jacob kigen,723445151,Household,VISP,6,2,Jacob keitany,7213678,December,Approved
+Nakuru,Rongai,Soin,-0.0730352,35.9059055,Evelyn komen,720307489,Household,VISP,10,1,Jacob keitany,721367878,December,Approved
+Nakuru,Rongai,Soin,-0.070259,35.9056748,Clifford keitany,720364230,Household,VISP,2,2,Jacob keitany,721367878,December,Approved
+Nakuru,Rongai,Soin,-0.0642881,35.9727561,Dandelion medical,712414165,Health Facility,Flush toilet linked to a single leach pit,555,3,Peter kipkulei,723910882,December,Approved
+Nakuru,Rongai,Soin,-0.0642255,35.9727121,Dandelion medical,712414165,Health Facility,Flush toilet linked to a double leach pit,200,4,Peter kipkulei,723910882,December,Approved
+Nakuru,Rongai,Soin,-0.0637673,35.9722731,Dadelion Africa,712414165,Health Facility,Flush toilet linked to a septic tank,300,9,Peter kipkulei,723910882,December,Approved
+Nakuru,Rongai,Soin,-0.0636641,36.0611475,Micah Rutto,742069400,Other,VISP,35,4,Peter kipkulei,723910882,December,Approved
+Nakuru,Rongai,Soin,-0.0629725,35.9725235,Sarambei secondary,725995579,School,VIDP,220,8,Michael cheriuyot,704739058,December,Approved
+Nakuru,Rongai,Soin,-0.0599165,35.9726109,George ronoh,723584095,Household,VIDP,7,2,Carolyne tunai,720277595,December,Approved
+Nakuru,Rongai,Soin,-0.0597799,35.9662643,TERIKI BOWEN,727655587,Household,VIDP,8,2,Evaline kigen,718753277,December,Approved
+Nakuru,Rongai,Soin,-0.0539833,35.8991334,Evans kigen,725515316,Rental Property,VISP,30,2,Peter kipkulei,723910882,December,Approved
+Nakuru,Rongai,Soin,-0.0520124,35.8988501,Delilah lenawarungu,727475796,Household,VISP,5,2,Jacob keitany,721367878,December,Approved
+Nakuru,Rongai,Soin,-0.0518015,35.8982351,Chelagat Maureen,790234068,Rental Property,VISP,8,2,Jacob keitany,721367878,December,Approved
+Nakuru,Rongai,Soin,-0.0444303,35.9593227,Brian kiplimo,790040263,Rental Property,VISP,19,3,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0442511,35.9594136,Clinton oketch,718044169,Rental Property,VISP,11,3,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.044082,35.9595017,Bernard BIWOTT,741826002,Rental Property,VISP,24,4,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0436088,35.9613819,Job Tomno,721292228,Household,VIDP,10,2,Evaline kigen,718753277,December,Approved
+Nakuru,Rongai,Soin,-0.0362634,36.0708848,Christopher yatich,746983009,Household,VISP,5,1,Peter kpkulei,723910882,December,Approved
+Nakuru,Rongai,Soin,-0.0323724,35.9685436,Richard Yegon,722846551,Rental Property,VISP,11,3,Margaret maina,720959516,December,Approved
+Nakuru,Rongai,Soin,-0.0321106,35.9691586,Felister Toroitich,722109433,Rental Property,VISP,12,3,Margaret Maina,703848591,December,Approved
+Nakuru,Rongai,Soin,-0.0319567,35.9677651,Ursula Ipapa,718216829,Rental Property,VISP,15,4,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0316507,35.9695201,Grace KIBON,752940513,Rental Property,VISP,14,3,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0315815,35.9695572,James Murey,726485529,Rental Property,VISP,21,4,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0315783,35.967525,christine Kerubo,721984685,Rental Property,VISP,19,3,margaret maina,720959516,December,Approved
+Nakuru,Rongai,Soin,-0.0311813,35.9689852,Andrew Nderitu,714868265,Rental Property,VISP,16,3,margaret Maina,720959516,December,Approved
+Nakuru,Rongai,Soin,-0.0307437,35.9684341,shadrack Kibunget,719846281,Rental Property,VISP,23,4,Margaret Maina,720959516,December,Approved
+Nakuru,Rongai,Soin,-0.0303793,35.9681805,Rachel Komen,722926147,Rental Property,VISP,17,3,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0302911,35.969083,Marion Rono,707195836,Rental Property,VISP,13,3,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0299789,35.9670672,Adeline Bor,727102918,Rental Property,VISP,18,3,Margaret maina,720959516,December,Approved
+Nakuru,Rongai,Soin,-0.0298606,35.9674746,Joseph Ngugi,788494251,Rental Property,VISP,8,2,margaret maina,720959516,December,Approved
+Nakuru,Rongai,Soin,-0.029805,35.9671892,Damaris Aketch,721059405,Rental Property,VISP,30,5,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0295457,35.9685541,DENNIS Owino,708291959,Rental Property,VISP,12,3,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0295437,35.9685981,Simon Kibet,712046527,Rental Property,VISP,17,3,DENNIS ROTICH,715818481,December,Approved
+Nakuru,Rongai,Soin,-0.0294839,35.9685405,Kiprotich Bernard,721824650,Rental Property,VISP,24,4,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0291304,35.9706023,Fred Kipkorir,718924054,Rental Property,VISP,16,3,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0289021,35.968975,Haron chumo,758616291,Rental Property,VISP,17,3,margaret maina,720959516,December,Approved
+Nakuru,Rongai,Soin,-0.0287807,35.9684599,Hannah Kirera,722419004,Household,VISP,6,2,DENNIS ROTICH,791153792,December,Approved
+Nakuru,Rongai,Soin,-0.0287436,35.9672193,Alex kiprono,72596926,Rental Property,VISP,37,2,Margaret maina,720959516,November,Approved
+Nakuru,Rongai,Soin,-0.027776,35.9672134,cherogony Joseph,110872537,Household,VISP,7,2,margaret maina,720959516,November,Approved
+Nakuru,Rongai,Soin,-0.0272869,35.9711869,daniel karis,728654226,Rental Property,VISP,17,3,Margaret maina,720959516,December,Approved
+Nakuru,Rongai,Soin,-0.0272365,35.9680006,Caleb kipkoech,75924272,Rental Property,VISP,13,3,Dennis ROTICH,79115379,November,Approved
+Nakuru,Rongai,Soin,-0.0249438,35.9655762,Godfrey Kamau,728291829,Rental Property,VISP,28,4,Margaret Maina,720959516,December,Approved
+Nakuru,Rongai,Soin,-0.0246368,35.9680357,david kibet,791153792,Rental Property,VISP,18,3,kizito,720959516,November,Approved

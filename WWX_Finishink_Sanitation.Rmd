@@ -1,0 +1,328 @@
+---
+title: "<b>WWX_Nakuru-FinishiNK Sanitation Trackbase Vol1"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(dplyr)
+library(geojsonio)
+library(leaflet)
+library(leaflet.extras)
+library(highcharter)
+library(tidyverse)
+library(maps)
+library(htmlwidgets)
+library(leaflet)
+library(lubridate)
+library(echarts4r)
+library(dplyr)
+library(DT)
+library(mapview)
+library(sf)
+library(sp)
+library(janitor)
+library(scales)
+library(gtsummary)
+library(tmap)
+library(htmltools)
+library(htmlwidgets)
+```
+
+# {Approved Facilities Map}
+```{r}
+  
+```
+
+
+```{r read}
+setwd("D:/Folder G/R Projects/WWX_Fanishink_Sanitation")
+Sub_County_shp <- read_sf("Nakuru_Sub_Counties.shp")
+Data.shp <- read_sf("Data.shp")
+Nakuru_2023 <- read_csv("Nakuru_2023.csv")
+Nakuru_2021 <- read_csv("Nakuru_2021.csv")
+Nakuru_2022 <- read_csv("Nakuru_2022.csv")
+Nakuru_2024 <- read_csv("Nakuru_2024.csv")
+GData2 <- read_csv("GData2.csv")
+GData <- read_csv("GData.csv")
+```
+
+Row {data-width=500}
+-----------------------------------------------------------------------
+
+### Map of the improved/ rehabilitated Toilet Facilities in Nakuru
+
+```{r}
+
+lable23 <- paste0( 
+  "Sub County:", Nakuru_2023$scounty,"</b>", "<br/>",
+  "Client:", Nakuru_2023$client, "</b>", "<br/>",
+  "<b>Number of Doors:", Nakuru_2023$sysDoors, "</b>", "<br/>",
+  " Number of Users:", Nakuru_2023$sysUsers, "</b>", "<br/>",
+  #"system Class:", Nakuru_2023$sysClass,"</b>", "<br/>",
+  "System Type:", Nakuru_2023$systype,"</b>", "<br/>",
+  "Marketer:", Nakuru_2023$marketer
+  )
+
+lable21 <- paste0( 
+  "Sub County:", Nakuru_2021$Sub_County,"</b>", "<br/>",
+  #"Client:", Nakuru_2021$Client, "</b>", "<br/>",
+  "<b>Number of Doors:", Nakuru_2021$Doors_No, "</b>", "<br/>",
+  " Number of Users:", Nakuru_2021$No_Users, "</b>", "<br/>",
+    "System Type:", Nakuru_2021$Toilet_type,"</b>", "<br/>",
+  "Marketer:", Nakuru_2021$Marketer
+  )
+
+leaflet() %>% 
+  setView(lng = 36.058758, lat= -0.427551, zoom=10) %>%
+  addScaleBar(position='bottomleft') %>% 
+  addMeasure() %>%
+  addTiles () %>% 
+  addProviderTiles('Esri.WorldImagery', group = "Satellite") %>% 
+  addProviderTiles('CartoDB.Positron', group = "Light") %>% 
+  addPolygons(data = Sub_County_shp, opacity = 0.2, fillColor = 'white', group = "Sub-County") %>% 
+  addCircleMarkers( data = Nakuru_2023,lat = ~lat,lng = ~long, stroke = T, radius =3.5,popup = ~lable23, color = "black", fillColor = "red",fillOpacity = 0.8, group = "2023 entries" ) %>% 
+  addCircleMarkers( data = Nakuru_2021,lat = ~lat,lng = ~long, stroke = T, radius =3.5,popup = ~lable21, color = "black", fillColor = "green",fillOpacity = 0.8, group = "2021 entries") %>% 
+  addCircleMarkers( data = Nakuru_2022,lat = ~lat,lng = ~long, stroke = T, radius =3.5,popup = ~lable21, color = "black", fillColor = "blue",fillOpacity = 0.8, group = "2022 entries") %>% 
+  addCircleMarkers( data = Nakuru_2024,lat = ~lat,lng = ~long, stroke = T, radius =3.5,popup = ~lable23, color = "black", fillColor = "yellow",fillOpacity = 0.8, group = "2024 entries" ) %>% 
+  addLegend("bottomright", 
+            colors = c("yellow", "red", "blue", "green"), 
+            labels = c("2024 entries", "2023 entries", "2022 entries", "2021 entries"), 
+            title = "<b>Legend (Years)", 
+            opacity = 1) %>% 
+   addLayersControl(
+    overlayGroups = c("2021 entries", "2022 entries", "2023 entries", "2024 entries", "Sub-County"),
+    baseGroups = c("Satellite", "Light"),
+    options = layersControlOptions(collapsed = FALSE)
+  ) 
+
+
+
+
+
+```
+
+
+# {General Number of Facilities & Doors}
+```{r}
+  
+```
+
+
+
+Row {data-width=500}
+-----------------------------------------------------------------------
+
+### Number of Toilet Facilities Per Sub-County
+
+```{r}
+
+GData2 %>% 
+  group_by(Sub_County)%>% 
+  summarise(Number=n()) %>% 
+  arrange(Number) %>% # indicate - to arrange from big to small
+  hchart(
+    'bar', hcaes(Sub_County, Number), color='green',
+    showInLegend=F,
+    maxSize = "25%",
+    dataLabels = list(enabled = T, format = '{point.y: .0f} ')) %>%
+  hc_title(
+    text='Registered Facilities in Nakuru Per Sub-Counties',
+    style = list(fontWeight = "bold", fontSize = "15px"),
+    align = "center") %>% 
+  hc_tooltip(sort = TRUE, table = TRUE) %>% 
+  hc_caption(text="Points generated from coordinates") %>% 
+  hc_add_theme(hc_theme_flat())%>% 
+  #hc_add_theme(hc_theme_hcrt()) %>% 
+  hc_yAxis(title=list(text='Number of System Entries' )) %>% 
+  hc_xAxis(title=list(text='Nakuru Sub-Counties'))
+  
+
+```
+
+
+Row {data-width=500}
+-----------------------------------------------------------------------
+
+
+### Number of Doors Per Sub-County
+
+```{r}
+ CorrectedDoors<- GData2 %>% 
+  filter(!is.na(Sub_County) & !is.na(System_Doors)) %>%
+  group_by(Sub_County) %>%
+  summarise(System_Doors = sum(System_Doors, na.rm = TRUE)) 
+  
+CorrectedDoors %>% 
+  arrange(-System_Doors)%>%# indicate - to arrange from big to small
+  hchart(
+    'column', hcaes(x=Sub_County, y= System_Doors), color='magenta',
+    showInLegend=F,
+    maxSize = "25%",
+    dataLabels = list(enabled = T, format = '{point.y: .0f} ')) %>% 
+  hc_title(
+    text='Nakuru Facility Doors per Sub-County ',
+    style = list(fontWeight = "bold", fontSize = "15px"),
+    align = "center") %>% 
+  hc_tooltip(sort = T, table = T) %>% 
+  hc_add_theme(hc_theme_flat())%>% 
+  hc_yAxis(title=list(text='Number of System Doors' )) %>% 
+  hc_xAxis(title=list(text='Nakuru Sub-Counties'))
+```
+
+
+
+
+### Number of Toilet Facilities Per Year
+
+```{r}
+
+GData2 %>% 
+  group_by(Year)%>% 
+  summarise(Number=n()) %>% 
+  arrange(Number) %>% # indicate - to arrange from big to small
+  hchart(
+    'column', hcaes(x=Year, y=Number),  color='pink',
+    showInLegend=F,
+    maxSize = "25%",
+    dataLabels = list(enabled = T, format = '{point.y: .0f} ')) %>% 
+  hc_title(
+    text='Nakuru Number of Toilet Facilities Per Year',
+    style = list(fontWeight = "bold", fontSize = "15px"),
+    align = "center") %>% 
+  hc_tooltip(sort = TRUE, table = TRUE) %>% 
+  hc_add_theme(hc_theme_ffx())%>% 
+  #hc_add_theme(hc_theme_flat()) %>% 
+  hc_yAxis(title=list(text='Number of Systems' )) %>% 
+  hc_xAxis(title=list(text='Years'))
+
+
+
+```
+
+
+
+Row {data-width=500}
+-----------------------------------------------------------------------
+
+### Number of Toilets Doors Per Year
+
+```{r}
+Yearlydata<- GData2 %>% 
+  filter(!is.na(Year) & !is.na(System_Doors)) %>%
+  group_by(Year) %>%
+  summarise(System_Doors = sum(System_Doors, na.rm = TRUE)) 
+
+Yearlydata %>% 
+  
+ #arrange(Year) %>% # indicate - to arrange from big to small
+  hchart(
+    'column', hcaes(x=Year, y=System_Doors),
+    showInLegend=F,
+    maxSize = "25%",
+    dataLabels = list(enabled = T, format = '{point.y: .0f} ')) %>% 
+  hc_title(
+    text='Nakuru Number of Facilities Doors Per Year',
+    style = list(fontWeight = "bold", fontSize = "15px"),
+    align = "center") %>% 
+  hc_tooltip(sort = TRUE, table = TRUE) %>% 
+  hc_add_theme(hc_theme_flat())%>% 
+  #hc_add_theme(hc_theme_flat()) %>% 
+  hc_yAxis(title=list(text='Number of Systems' )) %>% 
+  hc_xAxis(title=list(text='Years'))
+```
+
+# {Population Served (SDGs)}
+```{r}
+  
+```
+
+
+Row {data-height=500}
+-----------------------------------------------------------------------
+
+### Population Served Per Sub-Counties
+
+```{r}
+
+CorrectedPop<- GData2 %>% 
+  filter(!is.na(Sub_County) & !is.na(No_Users)) %>%
+  group_by(Sub_County) %>%
+  summarise(No_Users = sum(No_Users, na.rm = TRUE)) 
+  
+CorrectedPop %>% 
+  arrange(-No_Users)%>%# indicate - to arrange from big to small
+  hchart(
+    'column', hcaes(x=Sub_County, y= No_Users), color='blue',
+    showInLegend=F,
+    maxSize = "25%",
+    dataLabels = list(enabled = T, format = '{point.y: .0f} ')) %>% 
+  hc_title(
+    text='Nakuru Population served Per Sub-Counties ',
+    style = list(fontWeight = "bold", fontSize = "15px"),
+    align = "center") %>% 
+  hc_tooltip(sort = T, table = T) %>% 
+  hc_add_theme(hc_theme_flat())%>% 
+  hc_yAxis(title=list(text='Population' )) %>% 
+  hc_xAxis(title=list(text='Nakuru Sub-Counties'))
+
+
+```
+
+Row {data-height=500}
+-----------------------------------------------------------------------
+
+### Population Served Per Year
+
+```{r}
+YearlyPop<- GData2 %>% 
+  filter(!is.na(Year) & !is.na(No_Users)) %>%
+  group_by(Year) %>%
+  summarise(No_Users = sum(No_Users, na.rm = TRUE)) 
+
+YearlyPop %>% 
+  
+ #arrange(Year) %>% # indicate - to arrange from big to small
+  hchart(
+    'column', hcaes(x=Year, y=No_Users),
+    showInLegend=F,
+    maxSize = "25%",
+    dataLabels = list(enabled = T, format = '{point.y: .0f} ')) %>% 
+  hc_title(
+    text='Nakuru Population served Per Year',
+    style = list(fontWeight = "bold", fontSize = "15px"),
+    align = "center") %>% 
+  hc_tooltip(sort = TRUE, table = TRUE) %>% 
+  hc_add_theme(hc_theme_flat())%>% 
+  #hc_add_theme(hc_theme_flat()) %>% 
+  hc_yAxis(title=list(text='Population' )) %>% 
+  hc_xAxis(title=list(text='Years'))
+
+
+```
+
+# {Data}
+```{r}
+
+```
+
+
+
+
+```{r}
+
+ datatable(Data.shp,
+          caption = "Nakuru Constructed and Improved Toilets Under Partnership              with FnishINK Between June 2021 - November 2024",
+          rownames = T,
+          filter = "top",
+          class = "hover cell-border stripe", #for making grid cells
+          #editable = "cell", # for editing cells
+          extensions="Buttons",
+          options = list(pageLength = 80,dom="Bfrtip", buttons=c( 'copy','csv', '' )))
+
+```
